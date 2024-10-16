@@ -1,0 +1,4252 @@
+[
+    {
+        "id": 131913,
+        "age_ratings": [
+            101730
+        ],
+        "alternative_names": [
+            40085,
+            40086,
+            40087
+        ],
+        "category": 0,
+        "cover": 267633,
+        "created_at": 1584788069,
+        "external_games": [
+            1977891
+        ],
+        "first_release_date": 1474416000,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            34
+        ],
+        "involved_companies": [
+            94670,
+            94671
+        ],
+        "keywords": [
+            962,
+            1313,
+            1937,
+            24359
+        ],
+        "name": "Maji Kyun! Renaissance",
+        "platforms": [
+            46
+        ],
+        "player_perspectives": [
+            5
+        ],
+        "release_dates": [
+            191446
+        ],
+        "screenshots": [
+            918066,
+            918067,
+            918068
+        ],
+        "similar_games": [
+            60248,
+            60959,
+            110576,
+            132092,
+            142445,
+            225683,
+            225684,
+            238887,
+            238897,
+            238904
+        ],
+        "slug": "maji-kyun-renaissance",
+        "storyline": "In a world where art becomes magic, Aigasaki Kohana is a student who just enrolled into Hoshigei Academy, a high school conceived to help students fully develop their art. Inspired by her late mother, a flower arranger, she enrolls as a second year student. However, while she discovers what becoming an Artista really means, she'll discover friendship and love...",
+        "summary": "A cross media collaboration project between Sunrise & Broccolli.",
+        "tags": [
+            31,
+            44,
+            268435490,
+            536871874,
+            536872225,
+            536872849,
+            536895271
+        ],
+        "themes": [
+            31,
+            44
+        ],
+        "updated_at": 1681992241,
+        "url": "https://www.igdb.com/games/maji-kyun-renaissance",
+        "videos": [
+            34610
+        ],
+        "websites": [
+            137453,
+            137454,
+            434195
+        ],
+        "checksum": "21773c78-1eff-c813-e5b4-9b6e8841eded",
+        "game_localizations": [
+            12809
+        ]
+    },
+    {
+        "id": 122801,
+        "age_ratings": [
+            37022,
+            54191
+        ],
+        "aggregated_rating": 70.0,
+        "aggregated_rating_count": 2,
+        "alternative_names": [
+            121792
+        ],
+        "artworks": [
+            16510
+        ],
+        "category": 0,
+        "cover": 96241,
+        "created_at": 1570435284,
+        "external_games": [
+            1776869,
+            1971777
+        ],
+        "first_release_date": 1492732800,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            9,
+            15,
+            32
+        ],
+        "involved_companies": [
+            131651
+        ],
+        "name": "Zhed",
+        "platforms": [
+            6,
+            14,
+            34,
+            39,
+            130
+        ],
+        "release_dates": [
+            313074,
+            339994,
+            340008,
+            413109,
+            413110,
+            441995
+        ],
+        "screenshots": [
+            339444,
+            339445,
+            339446,
+            339447,
+            339448,
+            339449,
+            339450
+        ],
+        "similar_games": [
+            19404,
+            25222,
+            31515,
+            36269,
+            55590,
+            65827,
+            106992,
+            109129,
+            111043,
+            121518
+        ],
+        "slug": "zhed",
+        "summary": "ZHED is an instant classic puzzle game. Based on a simple mechanic, it builds onto increasingly complex puzzles that challenge you to a level you would not imagine. No timers, no clocks, no stars and no tricks, just pure puzzles for you to enjoy.",
+        "tags": [
+            268435465,
+            268435471,
+            268435488
+        ],
+        "total_rating": 70.0,
+        "total_rating_count": 2,
+        "updated_at": 1721119499,
+        "url": "https://www.igdb.com/games/zhed",
+        "websites": [
+            123502,
+            123503,
+            428347
+        ],
+        "checksum": "5f7838ca-01b3-4e0f-4caa-f9de432cacd2",
+        "language_supports": [
+            110233
+        ]
+    },
+    {
+        "id": 88308,
+        "category": 0,
+        "cover": 64849,
+        "created_at": 1519237439,
+        "external_games": [
+            243459,
+            1960113
+        ],
+        "first_release_date": 1478649600,
+        "name": "Hey Duggee: The Big Outdoor App",
+        "platforms": [
+            39
+        ],
+        "release_dates": [
+            150633
+        ],
+        "screenshots": [
+            208806,
+            208807,
+            208808,
+            208809,
+            208810,
+            208811,
+            208812,
+            208813,
+            208814,
+            208815
+        ],
+        "slug": "hey-duggee-the-big-outdoor-app",
+        "summary": "Welcome to the Big Outdoors, Squirrels! Introducing the latest app featuring Hey Duggee! Safe, ad-free fun for your little ones. \n \nCompleting each activity earns the Squirrel a badge. With 5 Squirrels playing for 7 badges each, that\u2019s a whole lot of Duggee Hugs!",
+        "updated_at": 1685014987,
+        "url": "https://www.igdb.com/games/hey-duggee-the-big-outdoor-app",
+        "websites": [
+            77047,
+            417214
+        ],
+        "checksum": "54591705-f933-f8bc-2290-20b37d0a1d13"
+    },
+    {
+        "id": 95080,
+        "category": 0,
+        "created_at": 1521818623,
+        "external_games": [
+            1989881
+        ],
+        "name": "Dotra",
+        "slug": "dotra",
+        "updated_at": 1670992528,
+        "url": "https://www.igdb.com/games/dotra",
+        "websites": [
+            445624
+        ],
+        "checksum": "bc043ffb-ad60-6bd0-801b-55a6141e773c"
+    },
+    {
+        "id": 104748,
+        "category": 0,
+        "created_at": 1530519587,
+        "external_games": [
+            1155919,
+            1972586
+        ],
+        "name": "Space station - build your own ISS",
+        "slug": "space-station-build-your-own-iss",
+        "updated_at": 1670986137,
+        "url": "https://www.igdb.com/games/space-station-build-your-own-iss",
+        "websites": [
+            429116
+        ],
+        "checksum": "69cba8e8-24a8-db9c-1970-12e455d00ff9"
+    },
+    {
+        "id": 89616,
+        "category": 0,
+        "cover": 192106,
+        "created_at": 1519986874,
+        "external_games": [
+            269608,
+            1949905
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            9,
+            33
+        ],
+        "hypes": 1,
+        "involved_companies": [
+            154613
+        ],
+        "name": "Bubble Whirl Shooter",
+        "platforms": [
+            34,
+            39
+        ],
+        "similar_games": [
+            18115,
+            19222,
+            25905,
+            41349,
+            85804,
+            87170,
+            87507,
+            90788,
+            90965,
+            95776
+        ],
+        "slug": "bubble-whirl-shooter",
+        "status": 8,
+        "summary": "Shoot bubbles and match colors to pop your way up to victory in this bubble shooting adventure, win magic keys to unlock more secret colorful bubble world, it\u2019s time to enjoy the endless bubble shooting fun!",
+        "tags": [
+            268435465,
+            268435489
+        ],
+        "updated_at": 1678800343,
+        "url": "https://www.igdb.com/games/bubble-whirl-shooter",
+        "websites": [
+            407422
+        ],
+        "checksum": "970708ae-528c-7915-8f18-8786a4120376"
+    },
+    {
+        "id": 91579,
+        "category": 0,
+        "created_at": 1521138594,
+        "external_games": [
+            128240,
+            1189096
+        ],
+        "name": "Racing Live",
+        "slug": "racing-live",
+        "updated_at": 1670942773,
+        "url": "https://www.igdb.com/games/racing-live",
+        "websites": [
+            346516
+        ],
+        "checksum": "3bf799f5-07cd-c4af-a786-f50dbc8d9cdf"
+    },
+    {
+        "id": 2401,
+        "aggregated_rating": 70.0,
+        "aggregated_rating_count": 2,
+        "category": 0,
+        "cover": 407411,
+        "created_at": 1372880932,
+        "external_games": [
+            49179,
+            153135,
+            1868081
+        ],
+        "first_release_date": 861321600,
+        "game_modes": [
+            1,
+            2
+        ],
+        "genres": [
+            13,
+            14
+        ],
+        "involved_companies": [
+            5589,
+            5590
+        ],
+        "keywords": [
+            313,
+            43995,
+            43996,
+            43997,
+            43998
+        ],
+        "name": "Jonah Lomu Rugby",
+        "platforms": [
+            7,
+            13,
+            32
+        ],
+        "player_perspectives": [
+            2,
+            4
+        ],
+        "release_dates": [
+            5196,
+            320221,
+            320222
+        ],
+        "screenshots": [
+            31145
+        ],
+        "similar_games": [
+            80239,
+            109606,
+            114286,
+            116343,
+            116349,
+            116350,
+            116351,
+            116352,
+            116353,
+            241246
+        ],
+        "slug": "jonah-lomu-rugby",
+        "summary": "Jonah Lomu Rugby is a sports video game developed by Rage Software and published by Codemasters in 1997. It was released for MS-DOS, PlayStation and Sega Saturn. It was the first rugby union game released on the Saturn or PlayStation platforms.\n\nIt has five game modes: Friendly, World Cup, Tournament, Territories Cup and Classic Matches.\n\nThe title of the video game refers to former New Zealand winger Jonah Lomu.",
+        "tags": [
+            268435470,
+            536871225
+        ],
+        "total_rating": 70.0,
+        "total_rating_count": 2,
+        "updated_at": 1727332861,
+        "url": "https://www.igdb.com/games/jonah-lomu-rugby",
+        "websites": [
+            355016,
+            667686
+        ],
+        "checksum": "343b8c81-f0cb-bc77-93b8-9f39ec6fec63"
+    },
+    {
+        "id": 119025,
+        "category": 0,
+        "created_at": 1558701524,
+        "external_games": [
+            1723803,
+            1957721
+        ],
+        "first_release_date": 1559952000,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            13
+        ],
+        "involved_companies": [
+            229692,
+            229693
+        ],
+        "keywords": [
+            101
+        ],
+        "name": "Pet Puzzle",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            511087
+        ],
+        "screenshots": [
+            311510,
+            311511,
+            311512,
+            311513,
+            311514
+        ],
+        "similar_games": [
+            17613,
+            24620,
+            36346,
+            65827,
+            76340,
+            87485,
+            100794,
+            101573,
+            105264,
+            112754
+        ],
+        "slug": "pet-puzzle",
+        "summary": "Pet Puzzle is a relaxing and leisurely three-in-a-row game.",
+        "tags": [
+            268435469
+        ],
+        "updated_at": 1693604655,
+        "url": "https://www.igdb.com/games/pet-puzzle",
+        "websites": [
+            109221,
+            414926
+        ],
+        "checksum": "f8d47ec5-e7f3-a792-e2d8-09d25e05f609",
+        "language_supports": [
+            108775,
+            108776
+        ]
+    },
+    {
+        "id": 213046,
+        "age_ratings": [
+            87245,
+            108529,
+            126226,
+            126227
+        ],
+        "category": 3,
+        "cover": 236554,
+        "created_at": 1660027651,
+        "external_games": [
+            2529468,
+            2589186
+        ],
+        "first_release_date": 1659916800,
+        "game_modes": [
+            1
+        ],
+        "name": "The Ultimate FMV Bundle 2",
+        "platforms": [
+            49
+        ],
+        "release_dates": [
+            378672
+        ],
+        "screenshots": [
+            854459,
+            854460,
+            854461,
+            854462,
+            854463
+        ],
+        "slug": "the-ultimate-fmv-bundle-2",
+        "summary": "Wales Interactive is proud to offer the ultimate bundle for their very best FMV games! Featuring Night Book, Who Pressed Mute on Uncle Marcus? Bloodshore, Five Dates and I Saw Black Clouds in one bundle!",
+        "updated_at": 1706116564,
+        "url": "https://www.igdb.com/games/the-ultimate-fmv-bundle-2",
+        "checksum": "ef2725a2-6ad6-c2c3-8a8f-d85b2663d7cb"
+    },
+    {
+        "id": 274149,
+        "category": 5,
+        "cover": 340415,
+        "created_at": 1698517985,
+        "first_release_date": 936403200,
+        "genres": [
+            5
+        ],
+        "name": "Crusades",
+        "parent_game": 10192,
+        "platforms": [
+            6
+        ],
+        "player_perspectives": [
+            1
+        ],
+        "release_dates": [
+            531427
+        ],
+        "similar_games": [
+            19164,
+            32902,
+            38030,
+            43367,
+            95308,
+            95340,
+            103292,
+            103302,
+            106805,
+            119177
+        ],
+        "slug": "crusades",
+        "summary": "Crusades: An Unholy War is a nine-level Ultimate Doom PWAD in episode four style made by Richard Wiles. It replaces maps E4M1-E4M9.",
+        "tags": [
+            1,
+            268435461
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1724515701,
+        "url": "https://www.igdb.com/games/crusades",
+        "websites": [
+            592500
+        ],
+        "checksum": "bf08576c-b55d-dab3-8eb7-01a0fac7dca5"
+    },
+    {
+        "id": 130740,
+        "category": 0,
+        "created_at": 1582360476,
+        "external_games": [
+            1617427,
+            1911867
+        ],
+        "name": "Deathmatch Club",
+        "slug": "deathmatch-club",
+        "updated_at": 1670968762,
+        "url": "https://www.igdb.com/games/deathmatch-club",
+        "websites": [
+            386427
+        ],
+        "checksum": "2504a9b2-c115-0252-9f5a-850ff9924a4f"
+    },
+    {
+        "id": 254573,
+        "category": 0,
+        "cover": 311277,
+        "created_at": 1687668864,
+        "external_games": [
+            2716898
+        ],
+        "franchises": [
+            4253
+        ],
+        "genres": [
+            12
+        ],
+        "involved_companies": [
+            220718,
+            220719
+        ],
+        "keywords": [
+            4141
+        ],
+        "name": "Untitled Tokyo Revengers Action RPG",
+        "platforms": [
+            6,
+            34,
+            39,
+            48,
+            130,
+            167
+        ],
+        "release_dates": [
+            551875,
+            551876,
+            551877,
+            551878,
+            551879,
+            551880
+        ],
+        "similar_games": [
+            19164,
+            25636,
+            54775,
+            55199,
+            57372,
+            96217,
+            106987,
+            111835,
+            113109,
+            113636
+        ],
+        "slug": "untitled-tokyo-revengers-action-rpg",
+        "storyline": "The game will allow players to relive the events of the main story, in which they repeatedly leap through time to get revenge against the worst possible future.",
+        "summary": "A new 3D action RPG based on the popular manga and anime series Tokyo Revengers for PlayStation 5, PlayStation 4, Switch, PC (DMM Games), iOS, and Android. A specific title was not announced. It will launch as a free-to-play title with item-based microtransactions this winter in Japan.",
+        "tags": [
+            1,
+            268435468,
+            536875053
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1718016154,
+        "url": "https://www.igdb.com/games/untitled-tokyo-revengers-action-rpg",
+        "videos": [
+            92584
+        ],
+        "checksum": "9f140aac-07fc-e189-d732-76f49c47640e",
+        "language_supports": [
+            717196,
+            717197
+        ]
+    },
+    {
+        "id": 274991,
+        "category": 0,
+        "cover": 341335,
+        "created_at": 1698917667,
+        "external_games": [
+            2858869
+        ],
+        "first_release_date": 1135987200,
+        "involved_companies": [
+            238300
+        ],
+        "name": "Hi-5 DVD Game",
+        "platforms": [
+            238
+        ],
+        "release_dates": [
+            532874
+        ],
+        "similar_games": [
+            275577,
+            282385,
+            285628,
+            285638,
+            294680,
+            296083,
+            298309,
+            300543,
+            313240,
+            313384
+        ],
+        "slug": "hi-5-dvd-game",
+        "summary": "Hi-5 DVD Game is a DVD game released by Universal Studios Home Entertainment. This interactive DVD game comes with a set of coloured picture mats that are used to play ten games all presented by and featuring the original Hi-5 members. The winners of each game will be crowned a Hi-5 Action Hero by each of the Hi-5 members, from their respective games.",
+        "tags": [
+            35
+        ],
+        "themes": [
+            35
+        ],
+        "updated_at": 1698918486,
+        "url": "https://www.igdb.com/games/hi-5-dvd-game",
+        "websites": [
+            593793
+        ],
+        "checksum": "76451f06-92f7-11ef-2c50-b5a084c2c84a"
+    },
+    {
+        "id": 203546,
+        "artworks": [
+            77689
+        ],
+        "category": 0,
+        "cover": 260350,
+        "created_at": 1654531440,
+        "external_games": [
+            2443744,
+            2446156
+        ],
+        "first_release_date": 1654560000,
+        "genres": [
+            31,
+            32
+        ],
+        "name": "Meat & Greed",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            375099
+        ],
+        "screenshots": [
+            803747,
+            803748,
+            803749,
+            803750,
+            803751
+        ],
+        "similar_games": [
+            13189,
+            25222,
+            27266,
+            55282,
+            75948,
+            87975,
+            96217,
+            106992,
+            111130,
+            121217
+        ],
+        "slug": "meat-and-greed",
+        "summary": "In the atmospheric puzzle-platformer Meat & Greed, you will experience the horrors of a slaughterhouse from the perspective of different animals. Solve riddles and collaborate with other animals to try and escape this ill-fated factory.",
+        "tags": [
+            268435487,
+            268435488
+        ],
+        "updated_at": 1691320285,
+        "url": "https://www.igdb.com/games/meat-and-greed",
+        "websites": [
+            287410,
+            493202
+        ],
+        "checksum": "ef9c19ef-0e29-409c-e77e-ed798eb59167",
+        "language_supports": [
+            318552,
+            318553,
+            318554
+        ]
+    },
+    {
+        "id": 314733,
+        "category": 0,
+        "cover": 407402,
+        "created_at": 1724600948,
+        "external_games": [
+            2949744
+        ],
+        "first_release_date": 1720396800,
+        "game_engines": [
+            507
+        ],
+        "game_modes": [
+            1
+        ],
+        "name": "MadBreak",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            634529
+        ],
+        "slug": "madbreak",
+        "status": 4,
+        "summary": "Dive into MadBreak, a captivating reimagining of the beloved \"Brick Breaker\" game. With each level, you'll face exhilarating challenges that push your skills to the limit. Can you master the unique twists and turns that MadBreak throws your way? Break through the ordinary and embrace the extraordinary. Test your reflexes, strategize your moves, and discover if you have what it takes to conquer MadBreak! Get ready for an adrenaline-fueled journey where every block shattered brings you closer to victory. Are you up for the challenge? Game SUPPORTs controller use!",
+        "updated_at": 1727333125,
+        "url": "https://www.igdb.com/games/madbreak",
+        "websites": [
+            667648
+        ],
+        "checksum": "c756d8e0-cf40-d69b-1078-587abc64b8b6"
+    },
+    {
+        "id": 230654,
+        "alternative_names": [
+            120224
+        ],
+        "bundles": [
+            230749,
+            230823,
+            230826
+        ],
+        "category": 0,
+        "created_at": 1673373573,
+        "external_games": [
+            2637109
+        ],
+        "first_release_date": 1217548800,
+        "involved_companies": [
+            199895
+        ],
+        "name": "Hockey de Mesa",
+        "platforms": [
+            64
+        ],
+        "release_dates": [
+            436853
+        ],
+        "slug": "hockey-de-mesa",
+        "updated_at": 1718238480,
+        "url": "https://www.igdb.com/games/hockey-de-mesa",
+        "checksum": "8a5c4a96-44c3-bc49-1f19-98f931fe4a9d"
+    },
+    {
+        "id": 176242,
+        "artworks": [
+            54799
+        ],
+        "category": 0,
+        "created_at": 1634290363,
+        "external_games": [
+            2134008,
+            2134437
+        ],
+        "name": "This hole in my chest",
+        "screenshots": [
+            662953
+        ],
+        "slug": "this-hole-in-my-chest",
+        "summary": "A game about feeling empty",
+        "updated_at": 1671002976,
+        "url": "https://www.igdb.com/games/this-hole-in-my-chest",
+        "websites": [
+            235737,
+            472880
+        ],
+        "checksum": "f3d3f9f3-2ed2-06f3-ecf3-ffd1846f6fba"
+    },
+    {
+        "id": 99620,
+        "category": 0,
+        "created_at": 1524985381,
+        "external_games": [
+            464352
+        ],
+        "first_release_date": 1525046400,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            31
+        ],
+        "involved_companies": [
+            77163,
+            77164
+        ],
+        "name": "Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            407353
+        ],
+        "screenshots": [
+            233654,
+            233655,
+            233656,
+            233657,
+            233658,
+            233659,
+            233660,
+            233661,
+            233662
+        ],
+        "similar_games": [
+            17414,
+            34218,
+            55282,
+            75948,
+            87622,
+            87975,
+            103292,
+            106992,
+            111130,
+            115374
+        ],
+        "slug": "shadow-wolf-mysteries-cursed-wedding-collectors-edition",
+        "summary": "After being called to Paris, you find yourself in the middle of a shocking mystery involving an ancient werewolf hungry for revenge.",
+        "tags": [
+            268435487
+        ],
+        "updated_at": 1691345772,
+        "url": "https://www.igdb.com/games/shadow-wolf-mysteries-cursed-wedding-collectors-edition",
+        "version_parent": 139736,
+        "version_title": "Collector's Edition",
+        "websites": [
+            85059
+        ],
+        "checksum": "dbb55914-4693-06fe-ec7d-593e629e0275",
+        "language_supports": [
+            57529,
+            57531,
+            57532
+        ]
+    },
+    {
+        "id": 85349,
+        "age_ratings": [
+            39898
+        ],
+        "category": 0,
+        "cover": 320082,
+        "created_at": 1517400302,
+        "external_games": [
+            219722,
+            1983031
+        ],
+        "first_release_date": 1467244800,
+        "genres": [
+            9,
+            15
+        ],
+        "name": "Prism Pets",
+        "platforms": [
+            41
+        ],
+        "release_dates": [
+            142464
+        ],
+        "screenshots": [
+            169880,
+            169881,
+            169882,
+            169883
+        ],
+        "similar_games": [
+            17613,
+            19222,
+            41349,
+            51207,
+            77597,
+            87507,
+            90839,
+            95776,
+            109129,
+            121518
+        ],
+        "slug": "prism-pets",
+        "summary": "Prism Pets, a colorfully cute puzzle that shines. Slide, smash and crash your way into color!",
+        "tags": [
+            268435465,
+            268435471
+        ],
+        "updated_at": 1717694489,
+        "url": "https://www.igdb.com/games/prism-pets",
+        "websites": [
+            70588,
+            439101
+        ],
+        "checksum": "4500922e-37dc-b188-18a1-41533cb02c93"
+    },
+    {
+        "id": 94975,
+        "category": 0,
+        "created_at": 1521565054,
+        "external_games": [
+            328985,
+            1954152
+        ],
+        "name": "Wubble Bubbles",
+        "slug": "wubble-bubbles",
+        "updated_at": 1670979157,
+        "url": "https://www.igdb.com/games/wubble-bubbles",
+        "websites": [
+            411516
+        ],
+        "checksum": "5dbe100c-fe5e-7963-a4f4-9a99b970b2d3"
+    },
+    {
+        "id": 192652,
+        "artworks": [
+            69304
+        ],
+        "category": 0,
+        "cover": 259422,
+        "created_at": 1646303210,
+        "external_games": [
+            2236011,
+            2272553
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            12,
+            13,
+            31,
+            32
+        ],
+        "name": "Out of Orbit",
+        "screenshots": [
+            745266,
+            745268,
+            745269,
+            745270,
+            745271,
+            745272,
+            745273
+        ],
+        "similar_games": [
+            25311,
+            26574,
+            28309,
+            29348,
+            30245,
+            35994,
+            80916,
+            96217,
+            106987,
+            113360
+        ],
+        "slug": "out-of-orbit",
+        "summary": "Design, build and manage your very own spacecraft. Explore unlimited amounts of randomly generated universes, travel through wormholes, do missions, survive cosmic events, collect and trade materials, win epic bossfights and many, many more things to do. The sky is the limit. Literally.",
+        "tags": [
+            1,
+            268435468,
+            268435469,
+            268435487,
+            268435488
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1697957377,
+        "url": "https://www.igdb.com/games/out-of-orbit",
+        "websites": [
+            267383,
+            485224
+        ],
+        "checksum": "1f45d045-f28b-d775-c857-bbd8bf584d4c",
+        "language_supports": [
+            609492,
+            609493,
+            609494
+        ]
+    },
+    {
+        "id": 102637,
+        "category": 0,
+        "created_at": 1527332612,
+        "external_games": [
+            843442,
+            1972817
+        ],
+        "name": "Word Champion!",
+        "slug": "word-champion",
+        "updated_at": 1670986215,
+        "url": "https://www.igdb.com/games/word-champion",
+        "websites": [
+            429335
+        ],
+        "checksum": "c3bf6d3e-f374-7dd8-c9e9-cbdb258fc497"
+    },
+    {
+        "id": 130742,
+        "category": 0,
+        "cover": 127228,
+        "created_at": 1582360606,
+        "external_games": [
+            1807386,
+            1914612
+        ],
+        "hypes": 1,
+        "name": "Flashy Maze",
+        "slug": "flashy-maze",
+        "updated_at": 1670969862,
+        "url": "https://www.igdb.com/games/flashy-maze",
+        "websites": [
+            389076
+        ],
+        "checksum": "7394f5f1-d9f6-ddd4-f6c6-b4a3403e18bc"
+    },
+    {
+        "id": 32258,
+        "category": 0,
+        "created_at": 1495704031,
+        "external_games": [
+            4256,
+            1949882
+        ],
+        "first_release_date": 1474848000,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            12
+        ],
+        "name": "The Divine Paradox",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            75907
+        ],
+        "screenshots": [
+            52836,
+            52837,
+            52838,
+            52839,
+            52840
+        ],
+        "similar_games": [
+            1447,
+            35737,
+            49414,
+            56036,
+            59427,
+            64061,
+            87485,
+            99118,
+            111287,
+            112082
+        ],
+        "slug": "the-divine-paradox",
+        "summary": "In the distant future, humanity is nearing it's end. A monster that was slain by the divine long ago has returned and is hunting down all life. Now a group of people have managed to get an old device up and running, this will allow Jason to go back in time and try to save this dark and desperate future. Along the way he will meet people who have a certain impact in time, but can he change that impact or is time truly set in stone?  \nHis journey will take him to four different times, each having their own style and characters. Along the way he will uncover deep dark secrets that will change how everyone sees the world and universe. In the end nothing will be the same.",
+        "tags": [
+            268435468
+        ],
+        "updated_at": 1670977443,
+        "url": "https://www.igdb.com/games/the-divine-paradox",
+        "websites": [
+            31652,
+            407400
+        ],
+        "checksum": "af360040-97d4-a792-9876-9bbe384c830d"
+    },
+    {
+        "id": 94831,
+        "category": 0,
+        "created_at": 1521417600,
+        "external_games": [
+            134805
+        ],
+        "name": "Lines",
+        "slug": "lines--2",
+        "updated_at": 1521417600,
+        "url": "https://www.igdb.com/games/lines--2",
+        "checksum": "5180c13c-819f-1e3a-0437-596e5a83d217"
+    },
+    {
+        "id": 101840,
+        "category": 0,
+        "created_at": 1526640012,
+        "external_games": [
+            1960027
+        ],
+        "name": "Aisleen",
+        "slug": "aisleen",
+        "updated_at": 1670981355,
+        "url": "https://www.igdb.com/games/aisleen",
+        "websites": [
+            417130
+        ],
+        "checksum": "5f614f51-3d73-a05a-0e17-f6b0facc6a78"
+    },
+    {
+        "id": 296606,
+        "artworks": [
+            134939
+        ],
+        "category": 0,
+        "cover": 375965,
+        "created_at": 1712686796,
+        "external_games": [
+            2881672,
+            2905730
+        ],
+        "first_release_date": 1714867200,
+        "game_modes": [
+            1,
+            2
+        ],
+        "genres": [
+            5,
+            31,
+            32
+        ],
+        "name": "The Way Of Kings",
+        "platforms": [
+            6,
+            14
+        ],
+        "player_perspectives": [
+            1
+        ],
+        "release_dates": [
+            609337,
+            649400
+        ],
+        "screenshots": [
+            1298202,
+            1298203,
+            1298204,
+            1298205,
+            1298206,
+            1298207
+        ],
+        "similar_games": [
+            25646,
+            32902,
+            96217,
+            103292,
+            105269,
+            106805,
+            106987,
+            107318,
+            111130,
+            113895
+        ],
+        "slug": "the-way-of-kings",
+        "status": 4,
+        "summary": "\u300aThe Way Of Kings\u300bis a love and war based real-time action role-playing game.It tells the story of an ordinary man named Qin Shihuang, who experiences countless fantasy adventures in the end times to conquer the world, unify Kyushu and become emperor.",
+        "tags": [
+            1,
+            268435461,
+            268435487,
+            268435488
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1727968912,
+        "url": "https://www.igdb.com/games/the-way-of-kings",
+        "videos": [
+            128696
+        ],
+        "websites": [
+            629328,
+            679205,
+            679206
+        ],
+        "checksum": "85197400-ed71-0baf-ee9e-60ac2f033bc6",
+        "language_supports": [
+            970158,
+            970159,
+            970160,
+            970161,
+            970162,
+            970163,
+            970164,
+            970165,
+            970166,
+            970167,
+            970168,
+            970169,
+            970170,
+            970171,
+            970172,
+            970173,
+            970174,
+            1030196,
+            1030197,
+            1030198,
+            1030199,
+            1030200,
+            1030201,
+            1030202,
+            1030203,
+            1030204,
+            1030205,
+            1030206
+        ]
+    },
+    {
+        "id": 268167,
+        "category": 13,
+        "created_at": 1695610877,
+        "external_games": [
+            2744811
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            13
+        ],
+        "name": "Train Simulator: Zhengxi Highspeed: Zhengzhou - Sanmenxia Route",
+        "parent_game": 198295,
+        "screenshots": [
+            1151838,
+            1151840,
+            1151842
+        ],
+        "similar_games": [
+            17613,
+            36346,
+            65827,
+            76340,
+            87485,
+            100794,
+            101573,
+            105264,
+            112754,
+            115738
+        ],
+        "slug": "train-simulator-zhengxi-highspeed-zhengzhou-sanmenxia-route",
+        "summary": "Experience exhilarating Chinese high-speed rail operations with the Zhengxi passenger line from SimTech Vision for Train simulator.",
+        "tags": [
+            268435469
+        ],
+        "updated_at": 1695635362,
+        "url": "https://www.igdb.com/games/train-simulator-zhengxi-highspeed-zhengzhou-sanmenxia-route",
+        "websites": [
+            584190
+        ],
+        "checksum": "4a166d46-e859-d423-8a9b-7c8a216f0dca",
+        "language_supports": [
+            804755,
+            804756
+        ]
+    },
+    {
+        "id": 101761,
+        "category": 0,
+        "created_at": 1526638544,
+        "external_games": [
+            1969358
+        ],
+        "name": "BackDoor- Door 1",
+        "slug": "backdoor-door-1",
+        "updated_at": 1670984951,
+        "url": "https://www.igdb.com/games/backdoor-door-1",
+        "websites": [
+            426036
+        ],
+        "checksum": "ba403080-49d7-31a2-53fd-93c7fd2ecd44"
+    },
+    {
+        "id": 85137,
+        "artworks": [
+            1843
+        ],
+        "category": 0,
+        "cover": 367666,
+        "created_at": 1517394982,
+        "external_games": [
+            217493,
+            1946846
+        ],
+        "first_release_date": 1253836800,
+        "involved_companies": [
+            237438
+        ],
+        "name": "Family Trainer: Extreme Challenge",
+        "platforms": [
+            5
+        ],
+        "release_dates": [
+            139330
+        ],
+        "screenshots": [
+            158447,
+            158448,
+            158449,
+            158450,
+            158451,
+            158452,
+            158453,
+            158454,
+            158455,
+            158456,
+            158457,
+            158458
+        ],
+        "slug": "family-trainer-extreme-challenge",
+        "summary": "Family Trainer: Extreme Challenge is the follow up to the successful Family Trainer game/mat bundle.",
+        "updated_at": 1710322141,
+        "url": "https://www.igdb.com/games/family-trainer-extreme-challenge",
+        "websites": [
+            404491
+        ],
+        "checksum": "722a5e51-b5d7-d4e6-f358-4fd220e077c2"
+    },
+    {
+        "id": 15258,
+        "category": 0,
+        "cover": 274612,
+        "created_at": 1449921793,
+        "external_games": [
+            149979,
+            1869833
+        ],
+        "first_release_date": 662601600,
+        "genres": [
+            10,
+            14
+        ],
+        "name": "Masterblazer",
+        "platforms": [
+            16,
+            63
+        ],
+        "release_dates": [
+            42106,
+            42107
+        ],
+        "similar_games": [
+            44178,
+            47161,
+            71534,
+            82090,
+            113105,
+            114285,
+            116353,
+            118871,
+            119161,
+            120126
+        ],
+        "slug": "masterblazer",
+        "tags": [
+            1,
+            268435466,
+            268435470,
+            536875069
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1684465254,
+        "url": "https://www.igdb.com/games/masterblazer",
+        "websites": [
+            165449,
+            356674
+        ],
+        "checksum": "7ceffa58-9b50-bee7-e7b1-8ef1f894741c"
+    },
+    {
+        "id": 230918,
+        "category": 13,
+        "created_at": 1673527849,
+        "external_games": [
+            2637616
+        ],
+        "game_modes": [
+            2
+        ],
+        "genres": [
+            14,
+            15
+        ],
+        "name": "King's Hand: Seasonal Winter Pack",
+        "parent_game": 231152,
+        "screenshots": [
+            954558,
+            954559
+        ],
+        "slug": "kings-hand-seasonal-winter-pack",
+        "summary": "A snowy reskin of the whole game.",
+        "themes": [
+            1
+        ],
+        "updated_at": 1673865650,
+        "url": "https://www.igdb.com/games/kings-hand-seasonal-winter-pack",
+        "websites": [
+            517194
+        ],
+        "checksum": "5dfbaf8e-1d70-e1ab-06e3-b9bd83585d0c",
+        "language_supports": [
+            490087
+        ]
+    },
+    {
+        "id": 95081,
+        "category": 0,
+        "created_at": 1521819163,
+        "external_games": [
+            1981368
+        ],
+        "name": "Soccer Rally Arena",
+        "slug": "soccer-rally-arena",
+        "updated_at": 1670989456,
+        "url": "https://www.igdb.com/games/soccer-rally-arena",
+        "websites": [
+            437511
+        ],
+        "checksum": "a295aee8-f0bc-f9de-61f9-f054b1763ae3"
+    },
+    {
+        "id": 130745,
+        "category": 0,
+        "created_at": 1582360624,
+        "external_games": [
+            1807389,
+            1914572
+        ],
+        "name": "TS Online Mobile",
+        "slug": "ts-online-mobile",
+        "updated_at": 1670969848,
+        "url": "https://www.igdb.com/games/ts-online-mobile",
+        "websites": [
+            389037
+        ],
+        "checksum": "04c9fb06-af20-9ad0-61ed-e670bf954f28"
+    },
+    {
+        "id": 125970,
+        "category": 0,
+        "created_at": 1574087941,
+        "external_games": [
+            1833249,
+            1913866
+        ],
+        "name": "Tie Break Tennis",
+        "slug": "tie-break-tennis",
+        "updated_at": 1670969599,
+        "url": "https://www.igdb.com/games/tie-break-tennis",
+        "websites": [
+            388362
+        ],
+        "checksum": "d79abc9c-cd32-c65e-8a2b-b0ef55cda48e"
+    },
+    {
+        "id": 171563,
+        "category": 1,
+        "created_at": 1632054752,
+        "external_games": [
+            2014578
+        ],
+        "genres": [
+            31,
+            32
+        ],
+        "name": "Space Fox Kimi: The Battle of Mochi Prime",
+        "parent_game": 107843,
+        "screenshots": [
+            636120,
+            636121,
+            636122,
+            636124,
+            636126,
+            636128,
+            636130
+        ],
+        "similar_games": [
+            13189,
+            25222,
+            27266,
+            55282,
+            75948,
+            87975,
+            96217,
+            106992,
+            111130,
+            121217
+        ],
+        "slug": "space-fox-kimi-the-battle-of-mochi-prime",
+        "summary": "A stroke of luck, a once in a lifetime chance to end the war. The fleet gathers in preparation for an invasion. The Battle of Mochi Prime... is about to begin.",
+        "tags": [
+            268435487,
+            268435488
+        ],
+        "updated_at": 1691345533,
+        "url": "https://www.igdb.com/games/space-fox-kimi-the-battle-of-mochi-prime",
+        "websites": [
+            226452
+        ],
+        "checksum": "1eb7797e-bcf7-9124-b9c5-6462e8afddb2",
+        "language_supports": [
+            581534
+        ]
+    },
+    {
+        "id": 283004,
+        "category": 11,
+        "cover": 356651,
+        "created_at": 1705554203,
+        "name": "Porky's",
+        "parent_game": 22761,
+        "platforms": [
+            68
+        ],
+        "release_dates": [
+            555123
+        ],
+        "slug": "porkys--1",
+        "status": 6,
+        "summary": "Porky's was a prototype game designed for the ColecoVision in 1983. Revenge is sweet... and you're out to get it. You've been \"had\" at Porky's, and you're out to blow it away. The action's hot and heavy and it's up to you to keep Pee Wee on his toes. If he succumbs to distraction, it's the pits! It's more fun than a greased pig... it's a blast!",
+        "updated_at": 1706139615,
+        "url": "https://www.igdb.com/games/porkys--1",
+        "checksum": "56e5d3c8-8b67-f625-3526-76e9379cd8b3"
+    },
+    {
+        "id": 230919,
+        "category": 13,
+        "created_at": 1673528007,
+        "external_games": [
+            2637617
+        ],
+        "game_modes": [
+            2
+        ],
+        "genres": [
+            14,
+            15
+        ],
+        "name": "King's Hand: Exotic Purgatory Pack",
+        "parent_game": 231152,
+        "screenshots": [
+            954561,
+            954563
+        ],
+        "slug": "kings-hand-exotic-purgatory-pack",
+        "summary": "An exclusive hellish reskin of the whole game.",
+        "themes": [
+            1
+        ],
+        "updated_at": 1673865621,
+        "url": "https://www.igdb.com/games/kings-hand-exotic-purgatory-pack",
+        "websites": [
+            517196
+        ],
+        "checksum": "b92eea47-7d6b-fc11-fe64-5183c8529651",
+        "language_supports": [
+            490089
+        ]
+    },
+    {
+        "id": 36573,
+        "age_ratings": [
+            75061
+        ],
+        "bundles": [
+            39597
+        ],
+        "category": 0,
+        "cover": 187056,
+        "created_at": 1496242625,
+        "external_games": [
+            19452,
+            136952,
+            1876682
+        ],
+        "first_release_date": 875577600,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            5,
+            33
+        ],
+        "involved_companies": [
+            48782,
+            48783,
+            48784
+        ],
+        "keywords": [
+            6
+        ],
+        "name": "Maximum Force",
+        "platforms": [
+            7,
+            32,
+            52
+        ],
+        "player_perspectives": [
+            1
+        ],
+        "release_dates": [
+            76382,
+            76383,
+            76384,
+            76385,
+            76386
+        ],
+        "screenshots": [
+            43691
+        ],
+        "similar_games": [
+            5399,
+            25905,
+            43367,
+            58095,
+            86503,
+            90788,
+            90965,
+            117939,
+            119493,
+            178246
+        ],
+        "slug": "maximum-force",
+        "summary": "Maximum Force is a light gun shooter arcade game developed by Mesa Logic for Atari Games in 1997. In 1998, Atari Games re-released the game as part of one machine called Area 51/Maximum Force Duo that also included Area 51, and later ported the game to both the Sony PlayStation and Sega Saturn game consoles.\n\nLike its predecessor Area 51, Maximum Force is notable for its use of digitized video stored on an on-board hard disk, and the bizarrely contrasting unrealistic gibs into which every enemy blows apart when shot, in exactly the same way. While enemies, innocents, and explosions are 2D digitized video sprites, the levels and vehicles are pre-rendered in 3D.",
+        "tags": [
+            268435461,
+            268435489,
+            536870918
+        ],
+        "updated_at": 1718016813,
+        "url": "https://www.igdb.com/games/maximum-force",
+        "websites": [
+            31995,
+            363109
+        ],
+        "checksum": "5426fe0f-4bf7-d7b7-f06e-34756f7f3bc2"
+    },
+    {
+        "id": 82461,
+        "age_ratings": [
+            84506
+        ],
+        "category": 0,
+        "cover": 60658,
+        "created_at": 1516373166,
+        "external_games": [
+            210253,
+            1238357,
+            1984054
+        ],
+        "first_release_date": 1480032000,
+        "name": "10tons Adventure Puzzles Bundle",
+        "platforms": [
+            49
+        ],
+        "rating": 60.0,
+        "rating_count": 0,
+        "release_dates": [
+            136603
+        ],
+        "screenshots": [
+            147554,
+            147555,
+            147556,
+            147557,
+            147558,
+            147559,
+            147560,
+            147561,
+            147562,
+            147563
+        ],
+        "slug": "10tons-adventure-puzzles-bundle",
+        "summary": "Sparkle 2: Sparkle 2 is a superbly polished marble shooter action puzzle game with beautiful graphics, mighty powerups and an amazing soundtrack. Match the orbs before they fall into the abyss and find your way through mysterious lands of startling beauty!\n\nAzkend 2: Step aboard a fantastic adventure! Enjoy amazing match-three gameplay and discover one of the most astonishing worlds ever imagined.",
+        "total_rating": 60.0,
+        "total_rating_count": 0,
+        "updated_at": 1670990469,
+        "url": "https://www.igdb.com/games/10tons-adventure-puzzles-bundle",
+        "websites": [
+            440080
+        ],
+        "checksum": "74645368-a031-2891-f946-4f85993d5998"
+    },
+    {
+        "id": 96085,
+        "category": 0,
+        "created_at": 1522345078,
+        "external_games": [
+            358934,
+            1971522
+        ],
+        "name": "Rocky Climb",
+        "slug": "rocky-climb--1",
+        "updated_at": 1670985778,
+        "url": "https://www.igdb.com/games/rocky-climb--1",
+        "websites": [
+            428107
+        ],
+        "checksum": "4eecb4c8-7c81-a953-1147-7eb45bfd8360"
+    },
+    {
+        "id": 12323,
+        "artworks": [
+            140189
+        ],
+        "bundles": [
+            61729,
+            207018,
+            277035,
+            277068
+        ],
+        "category": 0,
+        "cover": 174057,
+        "created_at": 1441450307,
+        "external_games": [
+            21223,
+            155720,
+            1866681,
+            2885197
+        ],
+        "first_release_date": 662601600,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            5,
+            10
+        ],
+        "involved_companies": [
+            240760,
+            240761
+        ],
+        "keywords": [
+            25,
+            69
+        ],
+        "name": "Fatal Run",
+        "platforms": [
+            60
+        ],
+        "player_perspectives": [
+            2
+        ],
+        "release_dates": [
+            536027,
+            536028
+        ],
+        "screenshots": [
+            1345717,
+            1345718,
+            1345719,
+            1345720,
+            1345721,
+            1345722,
+            1345723
+        ],
+        "similar_games": [
+            19564,
+            55038,
+            57187,
+            68286,
+            90099,
+            101211,
+            103301,
+            105269,
+            107318,
+            113362
+        ],
+        "slug": "fatal-run",
+        "summary": "Drive up the road and gun down opposing vehicles in Fatal Run.",
+        "tags": [
+            1,
+            18,
+            268435461,
+            268435466,
+            536870937,
+            536870981
+        ],
+        "themes": [
+            1,
+            18
+        ],
+        "updated_at": 1719598350,
+        "url": "https://www.igdb.com/games/fatal-run",
+        "videos": [
+            116892
+        ],
+        "websites": [
+            353695,
+            647023
+        ],
+        "checksum": "4ee2605e-b720-d994-0215-9d00f5de7d1c",
+        "ports": [
+            276431
+        ],
+        "language_supports": [
+            1028095
+        ]
+    },
+    {
+        "id": 24244,
+        "age_ratings": [
+            65727
+        ],
+        "aggregated_rating": 69.0,
+        "aggregated_rating_count": 1,
+        "category": 0,
+        "created_at": 1474570527,
+        "external_games": [
+            1995106
+        ],
+        "name": "Memorick: The Apprentice Knight",
+        "slug": "memorick-the-apprentice-knight",
+        "total_rating": 69.0,
+        "total_rating_count": 1,
+        "updated_at": 1670994419,
+        "url": "https://www.igdb.com/games/memorick-the-apprentice-knight",
+        "websites": [
+            450623
+        ],
+        "checksum": "949070d5-906a-2279-5eca-3bd84feacb25"
+    },
+    {
+        "id": 130753,
+        "alternative_names": [
+            134284
+        ],
+        "bundles": [
+            251322
+        ],
+        "category": 0,
+        "cover": 306380,
+        "created_at": 1582360895,
+        "external_games": [
+            1856973,
+            1917604
+        ],
+        "first_release_date": 441676800,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            8,
+            9,
+            33
+        ],
+        "involved_companies": [
+            217702,
+            217703
+        ],
+        "name": "Crazy Kong",
+        "platforms": [
+            373
+        ],
+        "player_perspectives": [
+            4
+        ],
+        "release_dates": [
+            479753
+        ],
+        "screenshots": [
+            1060974
+        ],
+        "slug": "crazy-kong--1",
+        "themes": [
+            1
+        ],
+        "updated_at": 1685493936,
+        "url": "https://www.igdb.com/games/crazy-kong--1",
+        "websites": [
+            391962
+        ],
+        "checksum": "4d632b06-16ab-35fa-3416-90a85aa28feb",
+        "language_supports": [
+            701227
+        ]
+    },
+    {
+        "id": 268284,
+        "category": 1,
+        "created_at": 1695627327,
+        "external_games": [
+            2745370
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            13,
+            15
+        ],
+        "name": "Graviteam Tactics: Stalemate on Donets",
+        "parent_game": 18173,
+        "screenshots": [
+            1152502,
+            1152503,
+            1152504,
+            1152505,
+            1152506,
+            1152507,
+            1152508,
+            1152509,
+            1152510,
+            1152511,
+            1152512,
+            1152513,
+            1152514,
+            1152515,
+            1152516,
+            1152517,
+            1152518,
+            1152519,
+            1152520,
+            1152521,
+            1152522,
+            1152523,
+            1152524,
+            1152525,
+            1152526,
+            1152527
+        ],
+        "similar_games": [
+            17613,
+            17637,
+            24620,
+            31515,
+            36269,
+            36346,
+            55590,
+            65827,
+            76340,
+            112754
+        ],
+        "slug": "graviteam-tactics-stalemate-on-donets",
+        "summary": "Izyum-Barvenkovo offensive operation of the Red Army was carried out from 17 to 27 July, 1943 by forces of South-Western Front in order to encircle and destroy the German group defending Donbass, as well to prevent the transfer of enemy troops to the Kursk region.",
+        "tags": [
+            268435469,
+            268435471
+        ],
+        "updated_at": 1695635371,
+        "url": "https://www.igdb.com/games/graviteam-tactics-stalemate-on-donets",
+        "websites": [
+            584308
+        ],
+        "checksum": "5627d3a3-b670-b9d9-afa8-143ee8850e62",
+        "language_supports": [
+            805207,
+            805208
+        ]
+    },
+    {
+        "id": 283005,
+        "category": 11,
+        "cover": 356652,
+        "created_at": 1705554296,
+        "name": "Video Hustler",
+        "parent_game": 38557,
+        "platforms": [
+            68
+        ],
+        "release_dates": [
+            555124
+        ],
+        "slug": "video-hustler--1",
+        "status": 6,
+        "summary": "With an overhead view of the table, you play a billiards variant called \"Pocket Ball\" with just six object balls. Imprecise control over the aim and velocity of your shots. You'll discover the exicetiment of ball colliding. The silence and concentration of the billiard room, as well as the enthusiasm of the players will all be there for you.",
+        "updated_at": 1706139679,
+        "url": "https://www.igdb.com/games/video-hustler--1",
+        "checksum": "89fec8fd-8bda-859e-27a4-68c172feeb57"
+    },
+    {
+        "id": 118708,
+        "category": 0,
+        "created_at": 1558129952,
+        "name": "The Crew 2: Digital Deluxe Edition",
+        "slug": "the-crew-2-digital-deluxe-edition",
+        "updated_at": 1677141457,
+        "url": "https://www.igdb.com/games/the-crew-2-digital-deluxe-edition",
+        "version_parent": 28856,
+        "version_title": "Digital Deluxe Edition",
+        "checksum": "06730c66-7344-7d58-5fb1-3a3c0930257a"
+    },
+    {
+        "id": 108614,
+        "category": 0,
+        "created_at": 1536219164,
+        "external_games": [
+            1473808,
+            1954801
+        ],
+        "name": "Leo Spanish Spelling Complete",
+        "slug": "leo-spanish-spelling-complete",
+        "updated_at": 1670979407,
+        "url": "https://www.igdb.com/games/leo-spanish-spelling-complete",
+        "websites": [
+            412139
+        ],
+        "checksum": "39673ead-0125-8483-21d0-aa0505825423"
+    },
+    {
+        "id": 130751,
+        "category": 0,
+        "created_at": 1582360812,
+        "external_games": [
+            1856994,
+            1917584
+        ],
+        "first_release_date": 1335744000,
+        "name": "Tower of Fortune",
+        "platforms": [
+            39
+        ],
+        "release_dates": [
+            469771
+        ],
+        "slug": "tower-of-fortune",
+        "summary": "Tower of Fortune is a retro-style slot machine/RPG. You play as a retired hero and lived with daughter peacefully. Until one day, an unknown power from the mystic tower took her away. This force the hero to draw the sword again and fight for his daughter.",
+        "updated_at": 1682106334,
+        "url": "https://www.igdb.com/games/tower-of-fortune",
+        "websites": [
+            391943
+        ],
+        "checksum": "7464d953-510f-c3c9-073b-df99f3f3ed62"
+    },
+    {
+        "id": 130752,
+        "category": 0,
+        "created_at": 1582360826,
+        "external_games": [
+            1856935,
+            1917638
+        ],
+        "name": "Kuma no Pooh-San: 100 Acre no Mori no Cooking Book",
+        "slug": "kuma-no-pooh-san-100-acre-no-mori-no-cooking-book",
+        "updated_at": 1670970981,
+        "url": "https://www.igdb.com/games/kuma-no-pooh-san-100-acre-no-mori-no-cooking-book",
+        "websites": [
+            391996
+        ],
+        "checksum": "9f61e78b-0c13-6cb7-ac72-dc38fe027fc0"
+    },
+    {
+        "id": 232258,
+        "category": 0,
+        "created_at": 1674131441,
+        "external_games": [
+            2648186,
+            2651778
+        ],
+        "genres": [
+            9
+        ],
+        "name": "Jello Bubbles: Pop Color Balls",
+        "screenshots": [
+            961969,
+            961970,
+            961971,
+            961972,
+            961973,
+            961974
+        ],
+        "similar_games": [
+            19222,
+            25905,
+            41349,
+            87507,
+            89132,
+            90839,
+            95776,
+            313124,
+            317449,
+            317562
+        ],
+        "slug": "jello-bubbles-pop-color-balls",
+        "summary": "Play the new fun and addictive Jello Bubbles shooter game for FREE. Enjoy solving original bubble puzzles and relax popping colorful jelly balls.\nMatch 3 or more bubbles with the same color and clear levels, accomplish the game objective to advance to the next one.\nAim & shoot with the Jell-O-Matic Machine, to drop & blast all bubbles. A funny hummingbird helps you with nice boosters. Tap on the screen and drag the mini bubbles aim and lift it to shot. Take your time to aim and hit your desired bubble to make it pop.\nEasy to learn, only aim, match, and pop all the balls in this fun color-matching adventure. Use your puzzle-solving skills to clear levels and unlock new cities around the world. Travel with our heroine and discover amazing monuments, from Barcelona to the world. Clean the Jello and save the kidnapped birds.",
+        "tags": [
+            35,
+            268435465
+        ],
+        "themes": [
+            35
+        ],
+        "updated_at": 1695441394,
+        "url": "https://www.igdb.com/games/jello-bubbles-pop-color-balls",
+        "websites": [
+            519604,
+            519605
+        ],
+        "checksum": "3f5ece00-117c-87b2-d9dc-ad931418a8bc"
+    },
+    {
+        "id": 232243,
+        "category": 0,
+        "created_at": 1674130440,
+        "external_games": [
+            2648636,
+            2651799
+        ],
+        "genres": [
+            10,
+            14
+        ],
+        "name": "Pixel Race: Endless Retro Racing",
+        "screenshots": [
+            961925,
+            961926,
+            961927
+        ],
+        "similar_games": [
+            41583,
+            80382,
+            109292,
+            109606,
+            113105,
+            116352,
+            116353,
+            116667,
+            118871,
+            120126
+        ],
+        "slug": "pixel-race-endless-retro-racing",
+        "summary": "Pixel Race is an endless racing game which you earn badges, unlock and\nupgrade cars while trying to win the Legendary badge.\n4 CARS\nEach new car is smaller and stronger than previous one!",
+        "tags": [
+            268435466,
+            268435470
+        ],
+        "themes": [
+            35
+        ],
+        "updated_at": 1693524495,
+        "url": "https://www.igdb.com/games/pixel-race-endless-retro-racing",
+        "websites": [
+            519565,
+            519566
+        ],
+        "checksum": "3fc16e21-7734-c3fd-968b-7d9fbf9c419a"
+    },
+    {
+        "id": 311462,
+        "category": 5,
+        "cover": 401556,
+        "created_at": 1722405745,
+        "first_release_date": 1721952000,
+        "genres": [
+            5
+        ],
+        "name": "Paradise Up Above: Gold Label Edition",
+        "parent_game": 312,
+        "platforms": [
+            6
+        ],
+        "player_perspectives": [
+            1
+        ],
+        "release_dates": [
+            623770
+        ],
+        "screenshots": [
+            1371344,
+            1371345,
+            1371346,
+            1371347,
+            1371348
+        ],
+        "slug": "paradise-up-above-gold-label-edition",
+        "summary": "Paradise Up Above: Gold Label Edition comes with 18 total maps tak\ufeffing place in beautiful tropical locales, majestic skybound islands, Heavenly hot-spots, and the sinister shadow of Hell that eternally follows Doomguy wherever he goes, even in his journey for a peaceful place to rest his weary hands.",
+        "themes": [
+            1
+        ],
+        "updated_at": 1723745394,
+        "url": "https://www.igdb.com/games/paradise-up-above-gold-label-edition",
+        "websites": [
+            659276
+        ],
+        "checksum": "f7165c36-ff7d-72fd-66bd-31530a71dc68"
+    },
+    {
+        "id": 12930,
+        "category": 0,
+        "cover": 156997,
+        "created_at": 1443041415,
+        "external_games": [
+            196558
+        ],
+        "first_release_date": 631065600,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            5
+        ],
+        "involved_companies": [
+            56149,
+            56150
+        ],
+        "name": "Voyager",
+        "platforms": [
+            16,
+            63
+        ],
+        "player_perspectives": [
+            1
+        ],
+        "release_dates": [
+            124085,
+            124086
+        ],
+        "similar_games": [
+            10212,
+            55038,
+            57187,
+            68286,
+            78770,
+            103301,
+            105269,
+            107318,
+            113362,
+            117197
+        ],
+        "slug": "voyager",
+        "summary": "A first person spacecraft shooter using polygon graphics.",
+        "tags": [
+            18,
+            268435461,
+            536871937
+        ],
+        "themes": [
+            18
+        ],
+        "updated_at": 1682743062,
+        "url": "https://www.igdb.com/games/voyager",
+        "checksum": "67041d40-84eb-cd30-232f-366d41dd23a3"
+    },
+    {
+        "id": 305010,
+        "age_ratings": [
+            184174
+        ],
+        "bundles": [
+            305529,
+            308225
+        ],
+        "category": 1,
+        "created_at": 1717795993,
+        "first_release_date": 1727136000,
+        "franchises": [
+            792,
+            1865
+        ],
+        "game_modes": [
+            1,
+            2
+        ],
+        "genres": [
+            4
+        ],
+        "hypes": 1,
+        "involved_companies": [
+            276074
+        ],
+        "name": "Street Fighter 6: Year 2 - Terry",
+        "parent_game": 191692,
+        "platforms": [
+            6,
+            48,
+            167,
+            169
+        ],
+        "player_perspectives": [
+            4
+        ],
+        "release_dates": [
+            651304,
+            651305,
+            651306,
+            651307
+        ],
+        "similar_games": [
+            2254,
+            4052,
+            76852,
+            89550,
+            100800,
+            101608,
+            103269,
+            103288,
+            109277,
+            113895
+        ],
+        "slug": "street-fighter-6-year-2-terry",
+        "summary": "Terry is the second DLC character in the Street Fighter 6: Year 2 Character/Ultimate Pass.\n\nTerry is planned for release in Autumn 2024 and will be the first guest character to appear in the main Street Fighter series followed by Mai planned for release in 2025.",
+        "tags": [
+            1,
+            268435460
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1728338564,
+        "url": "https://www.igdb.com/games/street-fighter-6-year-2-terry",
+        "videos": [
+            119348,
+            123459
+        ],
+        "checksum": "40de1eb8-23ea-bbd4-fa41-b6835ce4c05c"
+    },
+    {
+        "id": 38557,
+        "bundles": [
+            41762
+        ],
+        "category": 0,
+        "cover": 24956,
+        "created_at": 1497975634,
+        "external_games": [
+            20012,
+            128117,
+            1881817
+        ],
+        "first_release_date": 349833600,
+        "genres": [
+            14
+        ],
+        "involved_companies": [
+            152652,
+            152653
+        ],
+        "keywords": [
+            2016,
+            5450
+        ],
+        "name": "Video Hustler",
+        "platforms": [
+            52
+        ],
+        "release_dates": [
+            318397
+        ],
+        "similar_games": [
+            83375,
+            109606,
+            114286,
+            116343,
+            116349,
+            116350,
+            116351,
+            116352,
+            116353,
+            233120
+        ],
+        "slug": "video-hustler",
+        "summary": "A pool game initially released by Konami in 1981 for the arcade.",
+        "tags": [
+            268435470,
+            536872928,
+            536876362
+        ],
+        "updated_at": 1706139679,
+        "url": "https://www.igdb.com/games/video-hustler",
+        "websites": [
+            367796
+        ],
+        "checksum": "8af6c2b2-0e2e-9eb3-94b9-dd42d4449611",
+        "ports": [
+            283005
+        ]
+    },
+    {
+        "id": 147142,
+        "age_ratings": [
+            39561,
+            54454,
+            98345
+        ],
+        "alternative_names": [
+            111934
+        ],
+        "artworks": [
+            14459
+        ],
+        "category": 3,
+        "cover": 202871,
+        "created_at": 1620751355,
+        "external_games": [
+            2598999
+        ],
+        "first_release_date": 1610928000,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            31,
+            33
+        ],
+        "involved_companies": [
+            131904
+        ],
+        "name": "Dungeon Nightmares 1+2 Collection",
+        "platforms": [
+            130
+        ],
+        "player_perspectives": [
+            1
+        ],
+        "release_dates": [
+            341155
+        ],
+        "screenshots": [
+            444220,
+            444223,
+            444226,
+            444229,
+            444232
+        ],
+        "similar_games": [
+            55199,
+            56033,
+            76253,
+            87622,
+            87728,
+            96217,
+            103292,
+            103369,
+            106987,
+            111130
+        ],
+        "slug": "dungeon-nightmares-1-plus-2-collection",
+        "summary": "The game is inspired by classic roguelike games which include 100% procedural-generated maps and permadeath. These features play an important part in making this game tense with the feeling of dread & terror as you walk the hallways of the dungeon. Every time you play, the dungeons are randomised which guarantees unlimited replay value. The game is simple. Get through each dungeon by surviving the horrors that lurk deep within and making your way to the exit. FEATURES - Dungeon Nightmares 1 Remastered - Dungeon Nightmares 2 : The Memory - Intense scary atmosphere - Combat-less gameplay - 100% procedural-generated maps - Permadeath - Rich 3D surround sound - Intelligent AI that changes based on the way you behave each night - Unlockable extras",
+        "tags": [
+            1,
+            268435487,
+            268435489
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1698218999,
+        "url": "https://www.igdb.com/games/dungeon-nightmares-1-plus-2-collection",
+        "checksum": "9c4e231c-9d37-a6ff-be1a-e410765afbfd",
+        "language_supports": [
+            502253,
+            502255
+        ],
+        "game_localizations": [
+            14535
+        ]
+    },
+    {
+        "id": 190243,
+        "artworks": [
+            66919
+        ],
+        "category": 0,
+        "cover": 257995,
+        "created_at": 1643830502,
+        "external_games": [
+            2228748,
+            2235594
+        ],
+        "genres": [
+            15,
+            32
+        ],
+        "name": "Magna Graecia",
+        "screenshots": [
+            730355,
+            730357,
+            730359,
+            730361,
+            730363,
+            730365,
+            730367,
+            730369
+        ],
+        "similar_games": [
+            19404,
+            31515,
+            33603,
+            33646,
+            36269,
+            55590,
+            65827,
+            111043,
+            115539,
+            116674
+        ],
+        "slug": "magna-graecia",
+        "summary": "Magna Graecia is a colorful building strategy and puzzle game in ancient Greek style in which you create a sprawling village with olives and grapes by placing buildings strategically, leveling them up, receiving adjacency bonuses, and expanding your territory, while enjoying the whole process.",
+        "tags": [
+            268435471,
+            268435488
+        ],
+        "updated_at": 1685021219,
+        "url": "https://www.igdb.com/games/magna-graecia",
+        "websites": [
+            262571,
+            483529
+        ],
+        "checksum": "4a5137c1-8559-26eb-55ae-5d9f0dc4322a",
+        "language_supports": [
+            391306
+        ]
+    },
+    {
+        "id": 100487,
+        "category": 0,
+        "created_at": 1525334844,
+        "external_games": [
+            637929,
+            1965363
+        ],
+        "name": "Catch It",
+        "slug": "catch-it",
+        "updated_at": 1670983351,
+        "url": "https://www.igdb.com/games/catch-it",
+        "websites": [
+            422204
+        ],
+        "checksum": "17dc7b2c-7c1e-cabc-d9db-090c3d6477fc"
+    },
+    {
+        "id": 92040,
+        "category": 0,
+        "created_at": 1521189075,
+        "external_games": [
+            315279,
+            1857024
+        ],
+        "name": "Bingo",
+        "slug": "bingo--1",
+        "updated_at": 1582361225,
+        "url": "https://www.igdb.com/games/bingo--1",
+        "checksum": "c4aaabf6-faa6-adce-c108-67391fe935a9"
+    },
+    {
+        "id": 209901,
+        "age_ratings": [
+            80913
+        ],
+        "category": 0,
+        "cover": 232811,
+        "created_at": 1658240284,
+        "external_games": [
+            2519725
+        ],
+        "first_release_date": 1227052800,
+        "involved_companies": [
+            179366
+        ],
+        "name": "Hidden Secrets: The Nightmare",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            373895
+        ],
+        "slug": "hidden-secrets-the-nightmare",
+        "updated_at": 1671016858,
+        "url": "https://www.igdb.com/games/hidden-secrets-the-nightmare",
+        "websites": [
+            497810
+        ],
+        "checksum": "a1c77d1a-08dd-d727-048f-a9f75d715823"
+    },
+    {
+        "id": 104739,
+        "category": 0,
+        "created_at": 1530519489,
+        "external_games": [
+            1155127,
+            1954012
+        ],
+        "name": "Word Nut: Word Games & Puzzles",
+        "slug": "word-nut-word-games-and-puzzles",
+        "updated_at": 1670979105,
+        "url": "https://www.igdb.com/games/word-nut-word-games-and-puzzles",
+        "websites": [
+            411381
+        ],
+        "checksum": "4f539ee5-ea83-ed27-fc5b-6a3cd4dae30d"
+    },
+    {
+        "id": 89689,
+        "category": 0,
+        "created_at": 1519988583,
+        "external_games": [
+            265536,
+            1970507
+        ],
+        "name": "A Knight's Move",
+        "slug": "a-knights-move",
+        "updated_at": 1670985395,
+        "url": "https://www.igdb.com/games/a-knights-move",
+        "websites": [
+            427136
+        ],
+        "checksum": "9457592a-1c58-026f-6c82-2d26d9728472"
+    },
+    {
+        "id": 118128,
+        "category": 0,
+        "cover": 92444,
+        "created_at": 1557089871,
+        "external_games": [
+            1720679,
+            1857548,
+            1917063
+        ],
+        "first_release_date": 1575590400,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            12,
+            15,
+            31,
+            32
+        ],
+        "involved_companies": [
+            93086,
+            93087
+        ],
+        "name": "Little Dungeon Stories",
+        "platforms": [
+            6
+        ],
+        "rating": 50.0,
+        "rating_count": 0,
+        "release_dates": [
+            188948
+        ],
+        "screenshots": [
+            311704,
+            311705,
+            311706,
+            311707,
+            311708,
+            311709,
+            311710,
+            311711,
+            311712,
+            311713
+        ],
+        "similar_games": [
+            19404,
+            25311,
+            28182,
+            35994,
+            79134,
+            96217,
+            103232,
+            106987,
+            109339,
+            113402
+        ],
+        "slug": "little-dungeon-stories",
+        "status": 4,
+        "summary": "Little Dungeon Stories is a challenging roguelike card-based RPG. Enter the dungeon full of secrets, hostile monsters, deadly traps, and legendary loots. How long can you survive?",
+        "tags": [
+            268435468,
+            268435471,
+            268435487,
+            268435488
+        ],
+        "total_rating": 50.0,
+        "total_rating_count": 0,
+        "updated_at": 1713262585,
+        "url": "https://www.igdb.com/games/little-dungeon-stories",
+        "websites": [
+            109257,
+            391447
+        ],
+        "checksum": "35d32aa9-4bf0-2b67-abca-324d5fa8dcf4",
+        "language_supports": [
+            99704,
+            99706,
+            99708,
+            99709,
+            99710,
+            99711,
+            99712,
+            99713,
+            99714,
+            99715,
+            99716,
+            99717,
+            99718,
+            99719,
+            99720,
+            99721,
+            99722,
+            99723,
+            99724,
+            99725,
+            99726,
+            99727,
+            99728,
+            99729,
+            99730,
+            99731
+        ]
+    },
+    {
+        "id": 197231,
+        "category": 0,
+        "created_at": 1649759975,
+        "external_games": [
+            2237106,
+            2415998
+        ],
+        "first_release_date": 1487721600,
+        "genres": [
+            9
+        ],
+        "name": "Rhom Bus",
+        "platforms": [
+            39
+        ],
+        "release_dates": [
+            352857
+        ],
+        "screenshots": [
+            774626,
+            774627,
+            774628,
+            774629,
+            774630
+        ],
+        "similar_games": [
+            10603,
+            19222,
+            25905,
+            41349,
+            87507,
+            88511,
+            88863,
+            90788,
+            90839,
+            95776
+        ],
+        "slug": "rhom-bus",
+        "summary": "New, addictive and clever game mechanics in a beautiful and carefully designed world of rhombuses. Turn the tiles or turn the board to complete the levels and help the animals getting on the bus.",
+        "tags": [
+            268435465
+        ],
+        "updated_at": 1718016785,
+        "url": "https://www.igdb.com/games/rhom-bus",
+        "websites": [
+            275431,
+            275432,
+            488651
+        ],
+        "checksum": "d8113322-52cb-9f95-43e0-618b8bd7ac75"
+    },
+    {
+        "id": 91555,
+        "category": 0,
+        "cover": 132963,
+        "created_at": 1521138440,
+        "external_games": [
+            128354,
+            1881703
+        ],
+        "involved_companies": [
+            120745
+        ],
+        "name": "Spike the Hedgehog",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            232698
+        ],
+        "slug": "spike-the-hedgehog",
+        "updated_at": 1677177637,
+        "url": "https://www.igdb.com/games/spike-the-hedgehog",
+        "websites": [
+            367685
+        ],
+        "checksum": "e3e150de-a633-6de8-277b-1c7ba7eaec82"
+    },
+    {
+        "id": 1438,
+        "age_ratings": [
+            47448
+        ],
+        "alternative_names": [
+            12339,
+            32821,
+            32822,
+            33631,
+            40758,
+            136771
+        ],
+        "artworks": [
+            110214,
+            110215,
+            110216,
+            110217
+        ],
+        "category": 0,
+        "cover": 309491,
+        "created_at": 1349603528,
+        "external_games": [
+            33028,
+            155981,
+            248281,
+            2594324
+        ],
+        "first_release_date": 1017360000,
+        "franchises": [
+            769
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            12,
+            15,
+            24
+        ],
+        "involved_companies": [
+            154367,
+            154369,
+            226309,
+            264446
+        ],
+        "keywords": [
+            226,
+            415,
+            578,
+            1107,
+            1186,
+            1313,
+            1699,
+            1923,
+            2606,
+            4248,
+            4249,
+            4388,
+            4392,
+            4613,
+            4862,
+            4879,
+            5175,
+            5591,
+            6221,
+            6225,
+            6463,
+            6733,
+            7480,
+            7529,
+            7590,
+            9256,
+            9628,
+            10006,
+            11281,
+            25265,
+            29745,
+            30490,
+            31533
+        ],
+        "name": "Fire Emblem: The Binding Blade",
+        "platforms": [
+            24,
+            41
+        ],
+        "player_perspectives": [
+            3,
+            4
+        ],
+        "rating": 73.89159371462236,
+        "rating_count": 46,
+        "release_dates": [
+            496241,
+            496242,
+            496243,
+            496288
+        ],
+        "screenshots": [
+            356851,
+            356852,
+            356853,
+            356854,
+            356855,
+            356856,
+            356857,
+            356858,
+            671543,
+            671544,
+            671545
+        ],
+        "similar_games": [
+            660,
+            1439,
+            1440,
+            1441,
+            1443,
+            2365,
+            14394,
+            22387,
+            26845,
+            119171
+        ],
+        "slug": "fire-emblem-the-binding-blade",
+        "storyline": "The game takes place on the continent of Elibe, set twenty years after its prequel, Fire Emblem: The Blazing Blade, Starring the son of protagonist Eliwood, Roy.\n\n1,000 years before the events of the game, the land of Elibe was the scene of The Scouring, a brutal war between humans and dragons over the control of the land. Late in this war, mankind forged nine powerful dragon-slaying weapons, the Divine Weapons and the Binding Blade, and gave them to eight powerful fighters who became known as the Eight Legends to use to finish the war. However, the sheer power imbued in the weapons tore apart the balance in the laws of nature when clashed with the dragon's own power, a phenomenon later called the Ending Winter.\n\nAfter the war, fearing the power of the weapons and the possibility of someone using them to cause a catastrophe, the weapons were sealed away in hiding places across the continent. Over the thousand years, the weapons remained undisturbed, and the continent is mostly at peace.\n\nHowever, this peace is soon ended when Bern suddenly invades Sacae and Ilia and swiftly takes control of the two countries. They then turn towards the small country of Lycia. Roy then leads the League of Lycia's army against the forces of the militant country of Bern shortly after his father falls ill.",
+        "summary": "Fire Emblem: The Binding Blade is a Japanese tactical role-playing game developed by Intelligent Systems and published by Nintendo. The game was released on March 29, 2002 in Japan, is the sixth game in the Fire Emblem series, and the first of three games in the series that have appeared on Nintendo's Game Boy Advance handheld. It was the last Fire Emblem game to be released exclusively in Japan until the release of Fire Emblem: New Mystery of the Emblem. The Binding Blade was followed by a prequel, Fire Emblem: The Blazing Blade, set twenty years earlier.",
+        "tags": [
+            1,
+            17,
+            39,
+            268435468,
+            268435471,
+            268435480,
+            536871138,
+            536871327,
+            536871490,
+            536872019,
+            536872098,
+            536872225,
+            536872611,
+            536872835,
+            536873518,
+            536875160,
+            536875161,
+            536875300,
+            536875304,
+            536875525,
+            536875774,
+            536875791,
+            536876087,
+            536876503,
+            536877133,
+            536877137,
+            536877375,
+            536877645,
+            536878392,
+            536878441,
+            536878502,
+            536880168,
+            536880540,
+            536880918,
+            536882193,
+            536896177,
+            536900657,
+            536901402,
+            536902445
+        ],
+        "themes": [
+            1,
+            17,
+            39
+        ],
+        "total_rating": 73.89159371462236,
+        "total_rating_count": 46,
+        "updated_at": 1726988998,
+        "url": "https://www.igdb.com/games/fire-emblem-the-binding-blade",
+        "videos": [
+            36543,
+            57291
+        ],
+        "websites": [
+            61109,
+            142038,
+            142039,
+            335449
+        ],
+        "checksum": "fc4ce1ed-36b3-eaa8-320b-e3bd92905c8a",
+        "language_supports": [
+            729101
+        ],
+        "game_localizations": [
+            3183
+        ],
+        "collections": [
+            303
+        ]
+    },
+    {
+        "id": 313700,
+        "category": 13,
+        "created_at": 1723682510,
+        "external_games": [
+            2933137
+        ],
+        "first_release_date": 1721779200,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            15,
+            31,
+            32
+        ],
+        "involved_companies": [
+            281886
+        ],
+        "name": "Idle Champions: Dr. Buzz Watson the Bee Familiar Pack",
+        "parent_game": 43178,
+        "platforms": [
+            6,
+            14
+        ],
+        "release_dates": [
+            630413,
+            630414
+        ],
+        "screenshots": [
+            1383129
+        ],
+        "similar_games": [
+            25311,
+            25646,
+            28182,
+            35994,
+            79134,
+            96217,
+            106987,
+            111130,
+            113402,
+            113895
+        ],
+        "slug": "idle-champions-dr-buzz-watson-the-bee-familiar-pack",
+        "summary": "In this pack: Dr. Buzz Watson the Bee Familiar 2 Epic Potions of Speed 2 Epic Potions of Giant's Strength 2 Epic Potions of Clairvoyance",
+        "tags": [
+            1,
+            268435471,
+            268435487,
+            268435488
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1723784243,
+        "url": "https://www.igdb.com/games/idle-champions-dr-buzz-watson-the-bee-familiar-pack",
+        "websites": [
+            664082,
+            664083,
+            664627,
+            664628,
+            664629
+        ],
+        "checksum": "9a82a1f1-344c-857f-8302-1ff59d490ee1",
+        "language_supports": [
+            1071949,
+            1071950,
+            1071951,
+            1071954,
+            1071956,
+            1071959
+        ]
+    },
+    {
+        "id": 171309,
+        "artworks": [
+            51780
+        ],
+        "category": 0,
+        "cover": 258140,
+        "created_at": 1631985537,
+        "external_games": [
+            2122036,
+            2122108
+        ],
+        "first_release_date": 1631836800,
+        "genres": [
+            32
+        ],
+        "name": "Neon Arena",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            312003
+        ],
+        "screenshots": [
+            634171,
+            634173,
+            634175,
+            634177,
+            634179
+        ],
+        "similar_games": [
+            32902,
+            37419,
+            40524,
+            43367,
+            96217,
+            105233,
+            106987,
+            111130,
+            113895,
+            119121
+        ],
+        "slug": "neon-arena--1",
+        "summary": "Neon Arena is a space arcade scoring arena game.",
+        "tags": [
+            1,
+            268435488
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1685750580,
+        "url": "https://www.igdb.com/games/neon-arena--1",
+        "websites": [
+            226088,
+            418963
+        ],
+        "checksum": "e0df32b2-d820-1dca-14de-02b150142848",
+        "language_supports": [
+            433679
+        ]
+    },
+    {
+        "id": 106781,
+        "category": 0,
+        "created_at": 1533286648,
+        "external_games": [
+            1342956,
+            1956396
+        ],
+        "name": "Jump Ball Blast",
+        "slug": "jump-ball-blast",
+        "updated_at": 1670979967,
+        "url": "https://www.igdb.com/games/jump-ball-blast",
+        "websites": [
+            413669
+        ],
+        "checksum": "d6f7a598-229f-8c56-43c3-6fbbf14ad4fa"
+    },
+    {
+        "id": 137234,
+        "category": 0,
+        "created_at": 1598521799,
+        "external_games": [
+            1882984
+        ],
+        "name": "Slip Slop",
+        "slug": "slip-slop",
+        "updated_at": 1670956639,
+        "url": "https://www.igdb.com/games/slip-slop",
+        "websites": [
+            368849
+        ],
+        "checksum": "7eb7f029-8dbf-3633-d53e-d80a7e88a1d0"
+    },
+    {
+        "id": 137242,
+        "category": 0,
+        "created_at": 1598521968,
+        "external_games": [
+            1883275
+        ],
+        "name": "Premier Collection III",
+        "slug": "premier-collection-iii",
+        "updated_at": 1670956869,
+        "url": "https://www.igdb.com/games/premier-collection-iii",
+        "websites": [
+            369094
+        ],
+        "checksum": "c64701ad-c9be-a707-629d-6ca187d8550d"
+    },
+    {
+        "id": 104304,
+        "category": 0,
+        "created_at": 1530176713,
+        "external_games": [
+            1141625,
+            1953700
+        ],
+        "name": "Wildland Animal Hunting",
+        "slug": "wildland-animal-hunting",
+        "updated_at": 1670978981,
+        "url": "https://www.igdb.com/games/wildland-animal-hunting",
+        "websites": [
+            411078
+        ],
+        "checksum": "737d7156-112c-fb41-9755-19c66603b2f8"
+    },
+    {
+        "id": 52641,
+        "age_ratings": [
+            69480
+        ],
+        "category": 0,
+        "created_at": 1501413934,
+        "external_games": [
+            81525,
+            1962083
+        ],
+        "name": "One Epic Game",
+        "slug": "one-epic-game",
+        "updated_at": 1670982167,
+        "url": "https://www.igdb.com/games/one-epic-game",
+        "websites": [
+            419082
+        ],
+        "checksum": "99e00e58-498e-8793-4a6d-dc870fd68642"
+    },
+    {
+        "id": 300977,
+        "category": 11,
+        "cover": 382750,
+        "created_at": 1715792791,
+        "first_release_date": 1014336000,
+        "franchises": [
+            3789
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            8
+        ],
+        "involved_companies": [
+            266564,
+            266565,
+            266566
+        ],
+        "name": "Disney's Peter Pan: Return to Neverland",
+        "parent_game": 44877,
+        "platforms": [
+            24
+        ],
+        "player_perspectives": [
+            4
+        ],
+        "release_dates": [
+            594454,
+            594455
+        ],
+        "screenshots": [
+            1314761
+        ],
+        "slug": "disneys-peter-pan-return-to-neverland",
+        "summary": "Players take control of Peter Pan. He can fly with Pixie Dust if he has Tinker Bell, but if he runs out of Pixie Dust, Peter cannot fly. Enemies are in this game, but all can be defeated, except police officers. Enemies can be defeated by any attack, such as ground pounding, throwing his sword or fighting.",
+        "themes": [
+            1
+        ],
+        "updated_at": 1715957658,
+        "url": "https://www.igdb.com/games/disneys-peter-pan-return-to-neverland",
+        "checksum": "fc866c33-f5e2-22b4-732e-b0e854e1ef46"
+    },
+    {
+        "id": 130725,
+        "category": 0,
+        "created_at": 1582360159,
+        "external_games": [
+            1857810,
+            1916828
+        ],
+        "name": "Caution! Platforming Ahead",
+        "slug": "caution-platforming-ahead",
+        "updated_at": 1670970671,
+        "url": "https://www.igdb.com/games/caution-platforming-ahead",
+        "websites": [
+            391223
+        ],
+        "checksum": "4849b2b9-cf15-a00d-9c68-10315cf9a8b6"
+    },
+    {
+        "id": 92009,
+        "category": 0,
+        "created_at": 1521188626,
+        "external_games": [
+            316091,
+            1968566
+        ],
+        "name": "Morph Chess 3D",
+        "slug": "morph-chess-3d",
+        "updated_at": 1670984654,
+        "url": "https://www.igdb.com/games/morph-chess-3d",
+        "websites": [
+            425280
+        ],
+        "checksum": "465f2386-4266-fb01-9279-deffd4a6795c"
+    },
+    {
+        "id": 97156,
+        "category": 0,
+        "created_at": 1524230486,
+        "external_games": [
+            379837,
+            1959439
+        ],
+        "name": "UFO Hunter",
+        "slug": "ufo-hunter",
+        "updated_at": 1670981130,
+        "url": "https://www.igdb.com/games/ufo-hunter",
+        "websites": [
+            416570
+        ],
+        "checksum": "ec60836c-f19d-704e-e64c-de789cb8bddb"
+    },
+    {
+        "id": 88217,
+        "category": 0,
+        "created_at": 1519233384,
+        "external_games": [
+            240686,
+            1952758
+        ],
+        "name": "Duck Bow Hunt",
+        "slug": "duck-bow-hunt",
+        "updated_at": 1670978604,
+        "url": "https://www.igdb.com/games/duck-bow-hunt",
+        "websites": [
+            410169
+        ],
+        "checksum": "43f24b98-0023-3a4b-25c2-9f674ab06844"
+    },
+    {
+        "id": 209902,
+        "age_ratings": [
+            80914
+        ],
+        "category": 1,
+        "cover": 232813,
+        "created_at": 1658240378,
+        "first_release_date": 1054166400,
+        "name": "Hidden Stroke: APRM",
+        "parent_game": 22063,
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            373897
+        ],
+        "slug": "hidden-stroke-aprm",
+        "updated_at": 1658242080,
+        "url": "https://www.igdb.com/games/hidden-stroke-aprm",
+        "checksum": "e8d24fd8-dc4c-cf3d-10c6-9dad5984c8c4"
+    },
+    {
+        "id": 195243,
+        "artworks": [
+            71750
+        ],
+        "category": 0,
+        "cover": 245487,
+        "created_at": 1649036223,
+        "external_games": [
+            2411745
+        ],
+        "first_release_date": 1649376000,
+        "genres": [
+            32
+        ],
+        "keywords": [
+            1961,
+            3586
+        ],
+        "name": "Yummy Girl 2",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            359369
+        ],
+        "screenshots": [
+            761125,
+            761128,
+            761131,
+            761136
+        ],
+        "similar_games": [
+            28465,
+            36977,
+            43097,
+            43130,
+            51991,
+            67166,
+            75797,
+            75900,
+            77811,
+            115735
+        ],
+        "slug": "yummy-girl-2",
+        "summary": "Sweet buns, ruddy cupcakes, juicy burgers - all these yummy girls love to eat. They are just waiting for you to feed them! ( \u02d8\u25bd\u02d8)\u3063\u2668",
+        "tags": [
+            42,
+            268435488,
+            536872873,
+            536874498
+        ],
+        "themes": [
+            42
+        ],
+        "updated_at": 1692843787,
+        "url": "https://www.igdb.com/games/yummy-girl-2",
+        "websites": [
+            272446
+        ],
+        "checksum": "4d06cd70-2174-0c4f-9137-97750c5fbf5b",
+        "language_supports": [
+            338055,
+            338056,
+            338057,
+            338058,
+            338059,
+            338060,
+            338061,
+            338062,
+            338063,
+            338064,
+            338065,
+            338066,
+            338067
+        ]
+    },
+    {
+        "id": 192243,
+        "artworks": [
+            68747
+        ],
+        "category": 0,
+        "cover": 259898,
+        "created_at": 1646197083,
+        "external_games": [
+            2271663,
+            2271934
+        ],
+        "genres": [
+            31,
+            32
+        ],
+        "name": "Plumb",
+        "screenshots": [
+            742120,
+            742121,
+            742122,
+            742123,
+            742126,
+            742130,
+            742132,
+            742139
+        ],
+        "similar_games": [
+            13189,
+            25222,
+            27266,
+            55282,
+            75948,
+            87975,
+            96217,
+            106992,
+            111130,
+            121217
+        ],
+        "slug": "plumb",
+        "summary": "A room-scale VR narrative puzzle game. Solve spatial puzzles under strict time constraints. Assemble and properly combine an assortment of 3d shapes into predefined spaces.",
+        "tags": [
+            268435487,
+            268435488
+        ],
+        "updated_at": 1691312028,
+        "url": "https://www.igdb.com/games/plumb",
+        "websites": [
+            266823,
+            484839
+        ],
+        "checksum": "4db13ce1-e883-e256-9c25-2ea5e6b776e1",
+        "language_supports": [
+            409091
+        ]
+    },
+    {
+        "id": 126369,
+        "artworks": [
+            18302
+        ],
+        "category": 0,
+        "cover": 173658,
+        "created_at": 1574865493,
+        "external_games": [
+            1836076,
+            1982621
+        ],
+        "first_release_date": 1573776000,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            31,
+            32
+        ],
+        "name": "Nanoworld",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            506824
+        ],
+        "screenshots": [
+            361099,
+            361100,
+            361101,
+            361102,
+            361103,
+            361104,
+            361105
+        ],
+        "similar_games": [
+            25646,
+            29783,
+            30245,
+            68271,
+            80916,
+            87622,
+            96217,
+            106987,
+            111130,
+            113895
+        ],
+        "slug": "nanoworld",
+        "summary": "Sandbox game. Defend the planets from enemy minions.",
+        "tags": [
+            1,
+            268435487,
+            268435488
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1692866498,
+        "url": "https://www.igdb.com/games/nanoworld",
+        "websites": [
+            133297,
+            133298,
+            438708
+        ],
+        "checksum": "bb847143-3e5d-9d89-15a8-a6931076aeb1",
+        "language_supports": [
+            344945,
+            344946
+        ]
+    },
+    {
+        "id": 79780,
+        "category": 0,
+        "cover": 57466,
+        "created_at": 1514600053,
+        "external_games": [
+            122694,
+            1896939
+        ],
+        "keywords": [
+            729
+        ],
+        "name": "Slotter Mania Gaiden",
+        "similar_games": [
+            82297,
+            82299,
+            82300,
+            82301,
+            82302,
+            82304,
+            82307,
+            82310,
+            82311,
+            83060
+        ],
+        "slug": "slotter-mania-gaiden",
+        "summary": "Slotter Mania Gaiden is a pachislot game for the original PlayStation.",
+        "tags": [
+            536871641
+        ],
+        "updated_at": 1706003672,
+        "url": "https://www.igdb.com/games/slotter-mania-gaiden",
+        "websites": [
+            371978
+        ],
+        "checksum": "23bf4c0a-409b-43f6-7461-b24c8e4bb7f7",
+        "collections": [
+            3291
+        ]
+    },
+    {
+        "id": 185421,
+        "category": 0,
+        "created_at": 1639167036,
+        "external_games": [
+            2155232,
+            2178112
+        ],
+        "genres": [
+            8
+        ],
+        "name": "Paw Bois",
+        "screenshots": [
+            701999,
+            702000,
+            702001
+        ],
+        "similar_games": [
+            304363,
+            307583,
+            307598,
+            307601,
+            307609,
+            308202,
+            311011,
+            311759,
+            313206,
+            313636
+        ],
+        "slug": "paw-bois",
+        "summary": "cute climbing",
+        "tags": [
+            268435464
+        ],
+        "updated_at": 1671006001,
+        "url": "https://www.igdb.com/games/paw-bois",
+        "videos": [
+            62030
+        ],
+        "websites": [
+            252519,
+            479948
+        ],
+        "checksum": "7783336a-7a87-9c2d-1375-76ab53e34a7d"
+    },
+    {
+        "id": 160532,
+        "category": 1,
+        "created_at": 1627925847,
+        "external_games": [
+            2077666
+        ],
+        "genres": [
+            32
+        ],
+        "name": "Tiger Tank 59 I: A-Gun MP034",
+        "parent_game": 110980,
+        "screenshots": [
+            561164,
+            561169,
+            561174,
+            561175,
+            561176
+        ],
+        "similar_games": [
+            32902,
+            37419,
+            40524,
+            43367,
+            96217,
+            105233,
+            106987,
+            111130,
+            113895,
+            119121
+        ],
+        "slug": "tiger-tank-59-i-a-gun-mp034",
+        "summary": "Tiger Tank 59 is a top-down shooting game. In this game, players need to control their tanks, through the enemy lines, break the enemy base, or defeat the enemy tanks.\nThis DLC contains the Map No.186-190.",
+        "tags": [
+            1,
+            268435488
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1685738159,
+        "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp034",
+        "websites": [
+            207416,
+            207417
+        ],
+        "checksum": "bfcb2d05-a5a1-6883-c09f-4495f3a298bb",
+        "language_supports": [
+            450190,
+            450191,
+            450192
+        ]
+    },
+    {
+        "id": 299364,
+        "category": 0,
+        "cover": 379539,
+        "created_at": 1714140098,
+        "external_games": [
+            2912092
+        ],
+        "first_release_date": 1697414400,
+        "game_engines": [
+            829
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            8
+        ],
+        "name": "Redash",
+        "platforms": [
+            82
+        ],
+        "player_perspectives": [
+            4
+        ],
+        "release_dates": [
+            588768
+        ],
+        "screenshots": [
+            1310219,
+            1310220,
+            1310221
+        ],
+        "similar_games": [
+            307601,
+            307609,
+            308202,
+            311011,
+            311759,
+            313206,
+            314648,
+            317003,
+            317139,
+            317420
+        ],
+        "slug": "redash",
+        "summary": "After Marsho lent his game to a friend awhile back, Mo won't give it back now!\nIt's up to you find the Warp Stars and take it back even if force is needed.",
+        "tags": [
+            268435464
+        ],
+        "updated_at": 1728633562,
+        "url": "https://www.igdb.com/games/redash",
+        "websites": [
+            633987
+        ],
+        "checksum": "1b1a7bf6-e7f5-f0e8-e73e-eec930356f2c"
+    },
+    {
+        "id": 283003,
+        "category": 0,
+        "cover": 356642,
+        "created_at": 1705553173,
+        "external_games": [
+            2881715
+        ],
+        "first_release_date": 1356912000,
+        "keywords": [
+            1617,
+            2004,
+            27117
+        ],
+        "name": "A.E.",
+        "platforms": [
+            68
+        ],
+        "release_dates": [
+            555117
+        ],
+        "slug": "ae--3",
+        "summary": "A.E. is a Space Invaders inspired game with a 3D view. In A.E. the earth is under attack by swarms of aliens who drop bomb after bomb and it's your job to defend planet Earth. You control a laser cannon that moves horizontally at the bottom of the screen. To earn point you should shoot all the alien forces before they shoot you! The game becomes more challenging when you progress in the game as the alien swarm splits up and attack you from several sides. This version is a homebrew version released in 2012",
+        "updated_at": 1706139857,
+        "url": "https://www.igdb.com/games/ae--3",
+        "checksum": "40107c58-62e7-2d5a-aad4-c04fbef2400c"
+    },
+    {
+        "id": 258134,
+        "category": 5,
+        "cover": 318437,
+        "created_at": 1690299148,
+        "first_release_date": 1657324800,
+        "genres": [
+            5
+        ],
+        "name": "Solar Struggle",
+        "parent_game": 10192,
+        "platforms": [
+            6
+        ],
+        "player_perspectives": [
+            1
+        ],
+        "release_dates": [
+            496935
+        ],
+        "similar_games": [
+            19164,
+            32902,
+            38030,
+            43367,
+            95308,
+            95340,
+            103292,
+            103302,
+            106805,
+            119177
+        ],
+        "slug": "solar-struggle--1",
+        "storyline": "You are an unnamed convict imprisoned on Titan. When demon invasion threatens the Solar System, he gets a chance to escape. But there's a horde of demons between you and freedom.",
+        "summary": "Solar Struggle is an Ultimate Doom, limit-removing (Complevel 3) community project. Each map was given a name first and then participants were invited to make a level based of it.\n\nThe first 3 episodes are comparatively easy and short, and the 4th is ramping difficulty up quite a bit. The maps are balanced for pistol-start primarily.",
+        "tags": [
+            1,
+            268435461
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1724515745,
+        "url": "https://www.igdb.com/games/solar-struggle--1",
+        "websites": [
+            567784
+        ],
+        "checksum": "9be67807-2189-1015-951d-789f00043feb"
+    },
+    {
+        "id": 71213,
+        "category": 8,
+        "cover": 352570,
+        "created_at": 1506604284,
+        "external_games": [
+            155749,
+            1866663
+        ],
+        "first_release_date": 1181260800,
+        "game_modes": [
+            1,
+            2
+        ],
+        "genres": [
+            13,
+            15
+        ],
+        "involved_companies": [
+            245440,
+            245441
+        ],
+        "keywords": [
+            19,
+            999,
+            8146,
+            28272
+        ],
+        "multiplayer_modes": [
+            25776
+        ],
+        "name": "Carriers at War",
+        "parent_game": 25615,
+        "platforms": [
+            6
+        ],
+        "player_perspectives": [
+            3
+        ],
+        "release_dates": [
+            546515
+        ],
+        "screenshots": [
+            1213376,
+            1213379,
+            1213380,
+            1213381,
+            1213382
+        ],
+        "similar_games": [
+            10243,
+            17613,
+            18623,
+            23345,
+            31480,
+            36346,
+            36553,
+            79134,
+            102163,
+            106112
+        ],
+        "slug": "carriers-at-war",
+        "summary": "Naval wargame. This is the second remake of the 1984 Carriers at War. It is based on World War II naval warfare and focuses on the Pacific Theater.\n\nThis remake contains 7 scenarios based on the historical battles. Every scenario has at least one non-historical course of action.",
+        "tags": [
+            22,
+            268435469,
+            268435471,
+            536870931,
+            536871911,
+            536879058,
+            536899184
+        ],
+        "themes": [
+            22
+        ],
+        "updated_at": 1704215245,
+        "url": "https://www.igdb.com/games/carriers-at-war",
+        "videos": [
+            103872
+        ],
+        "websites": [
+            353678,
+            604365
+        ],
+        "checksum": "4d2e6eee-db8f-1f40-0004-a6f4bcf9666f",
+        "collections": [
+            2499
+        ]
+    },
+    {
+        "id": 137244,
+        "category": 0,
+        "created_at": 1598522013,
+        "external_games": [
+            1883286
+        ],
+        "name": "Line Simulator 2020",
+        "slug": "line-simulator-2020",
+        "updated_at": 1670956880,
+        "url": "https://www.igdb.com/games/line-simulator-2020",
+        "websites": [
+            369105
+        ],
+        "checksum": "b6b1fcb1-6c79-0c87-e68f-fb79af78f69f"
+    },
+    {
+        "id": 101918,
+        "category": 0,
+        "created_at": 1526642829,
+        "external_games": [
+            1986813
+        ],
+        "name": "Crayon Poke",
+        "slug": "crayon-poke",
+        "updated_at": 1670991438,
+        "url": "https://www.igdb.com/games/crayon-poke",
+        "websites": [
+            442696
+        ],
+        "checksum": "45bd1506-dd56-23b6-7e7c-71b48966e784"
+    },
+    {
+        "id": 52235,
+        "category": 0,
+        "cover": 377156,
+        "created_at": 1501328887,
+        "external_games": [
+            80156,
+            1965746
+        ],
+        "involved_companies": [
+            159417,
+            159474
+        ],
+        "name": "Hospital Hustle",
+        "platforms": [
+            5
+        ],
+        "slug": "hospital-hustle",
+        "updated_at": 1713145366,
+        "url": "https://www.igdb.com/games/hospital-hustle",
+        "websites": [
+            422576
+        ],
+        "checksum": "135c260a-20aa-9641-4e0c-10d6a70a8c9c"
+    },
+    {
+        "id": 90359,
+        "category": 0,
+        "created_at": 1520942978,
+        "external_games": [
+            273890,
+            1974457
+        ],
+        "name": "iLudo",
+        "slug": "iludo",
+        "updated_at": 1670986834,
+        "url": "https://www.igdb.com/games/iludo",
+        "websites": [
+            430907
+        ],
+        "checksum": "2ad291aa-4a7d-a64b-ca66-4ceb3dcb1e14"
+    },
+    {
+        "id": 102490,
+        "category": 0,
+        "created_at": 1527164919,
+        "external_games": [
+            815360,
+            1984885
+        ],
+        "name": "DinoSaur Ice Survival Craft",
+        "slug": "dinosaur-ice-survival-craft",
+        "updated_at": 1670990764,
+        "url": "https://www.igdb.com/games/dinosaur-ice-survival-craft",
+        "websites": [
+            440874
+        ],
+        "checksum": "842e697c-1f66-901c-64ab-0183d5ad416a"
+    },
+    {
+        "id": 137232,
+        "category": 0,
+        "cover": 309475,
+        "created_at": 1598521794,
+        "external_games": [
+            1883304
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            9,
+            32
+        ],
+        "involved_companies": [
+            219838,
+            219839
+        ],
+        "name": "I Don't Want to Die",
+        "slug": "i-dont-want-to-die",
+        "summary": "The game is simple: You play as Mr Nife Frown who is grumpy but doesn't want to die. But than things randomly start falling from the sky and if they hit you, you die.\n\nIt is as simple as that\n\nThis was made for 2 hour challenge by the talented devs at Stux Games.",
+        "updated_at": 1687137263,
+        "url": "https://www.igdb.com/games/i-dont-want-to-die",
+        "websites": [
+            369121
+        ],
+        "checksum": "7262c599-4df9-eb73-b2c1-9c728b9ee751",
+        "language_supports": [
+            713219,
+            713220,
+            713221,
+            713222,
+            713223,
+            713224
+        ]
+    },
+    {
+        "id": 247093,
+        "artworks": [
+            107618
+        ],
+        "category": 0,
+        "cover": 348061,
+        "created_at": 1682448387,
+        "external_games": [
+            2696570,
+            2701551
+        ],
+        "first_release_date": 1735603200,
+        "game_modes": [
+            1
+        ],
+        "name": "Asura The Striker",
+        "platforms": [
+            6
+        ],
+        "release_dates": [
+            521066
+        ],
+        "screenshots": [
+            1047558,
+            1047561,
+            1047562,
+            1047566,
+            1047569,
+            1047572
+        ],
+        "similar_games": [
+            25636,
+            57296,
+            87622,
+            87728,
+            95340,
+            100800,
+            103292,
+            105233,
+            109277,
+            113895
+        ],
+        "slug": "asura-the-striker",
+        "summary": "Respect and homage to the arcade games of the 80s and 90s, This is an arcade-style 3D shooter with speed and exhilaration. Play as Asura, a humanoid combat weapon, and destroy the invaders from outer space.",
+        "tags": [
+            1
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1701852261,
+        "url": "https://www.igdb.com/games/asura-the-striker",
+        "websites": [
+            547056
+        ],
+        "checksum": "f8fb50ba-740c-20e5-3576-f35544ff8e01",
+        "language_supports": [
+            688634,
+            688635
+        ]
+    },
+    {
+        "id": 244132,
+        "artworks": [
+            105008
+        ],
+        "category": 0,
+        "cover": 296412,
+        "created_at": 1680950960,
+        "external_games": [
+            2689190,
+            2691070
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            31
+        ],
+        "name": "PlanetBlight",
+        "screenshots": [
+            1024365,
+            1024371,
+            1024376,
+            1024384,
+            1024388,
+            1024391,
+            1024393,
+            1024395,
+            1024398,
+            1024399,
+            1024401,
+            1024402,
+            1024404,
+            1024407,
+            1024409,
+            1024411,
+            1024412,
+            1024413
+        ],
+        "similar_games": [
+            25646,
+            55199,
+            76253,
+            87622,
+            96217,
+            103292,
+            106805,
+            106987,
+            111130,
+            115280
+        ],
+        "slug": "planetblight",
+        "summary": "PlanetBlight strengthens itself through gathering and crafting, and firearm customization allows for more reliable shooting and aiming. Exploration requires you to be armed against threats and It's a survival genre game where you need to make sure you have enough food and drink to stay alive.",
+        "tags": [
+            1,
+            268435487
+        ],
+        "themes": [
+            1
+        ],
+        "updated_at": 1691315300,
+        "url": "https://www.igdb.com/games/planetblight",
+        "websites": [
+            542712
+        ],
+        "checksum": "e158fafb-3908-4874-f614-0814597f1854",
+        "language_supports": [
+            669297,
+            669298,
+            702966,
+            702967,
+            702968,
+            702969,
+            725701,
+            725702,
+            725703,
+            725704
+        ]
+    },
+    {
+        "id": 90944,
+        "category": 0,
+        "created_at": 1520960772,
+        "external_games": [
+            133201,
+            1878802
+        ],
+        "name": "Terwilliger",
+        "slug": "terwilliger",
+        "updated_at": 1670953223,
+        "url": "https://www.igdb.com/games/terwilliger",
+        "websites": [
+            365114
+        ],
+        "checksum": "75080686-6f4b-0947-fd57-af7c86726639"
+    }
+]
