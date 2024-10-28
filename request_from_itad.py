@@ -1,22 +1,15 @@
 import requests
 import json
 
-# Your API key
-api_key = 'xxxxxx'  # I masked my own API key here in case it is denied due to massive access
-
 # Define the endpoint (with the API key in the URL)
-url = f"https://api.isthereanydeal.com/games/historylow/v1?key={api_key}"
+url = "https://api.isthereanydeal.com/games/history/v2?"
+headers = {
+    'Client-ID': '8a6bc0f7309571f4',  # Replace with your actual Client ID
+    'Authorization': 'Bearer 84a44a2357e9a7c7149c05fdce31bc3645688a2e'  # Replace with your actual access token
+}
 
 # Define the game IDs as an array (non-empty, which the API expects)
-payload = [
-    "01849783-6a26-7147-ab32-71804ca47e8e",  # Replace with actual game UUIDs
-    "01849782-1017-7389-8de4-c97c587fd7e3"
-]
-
-# Set the request headers
-headers = {
-    'Content-Type': 'application/json'
-}
+payload = {, "US", [65,35], ""}
 
 # Make the POST request to the API
 response = requests.post(url, headers=headers, json=payload)

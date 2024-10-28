@@ -91,97 +91,6 @@
         ]
     },
     {
-        "id": 122801,
-        "age_ratings": [
-            37022,
-            54191
-        ],
-        "aggregated_rating": 70.0,
-        "aggregated_rating_count": 2,
-        "alternative_names": [
-            121792
-        ],
-        "artworks": [
-            16510
-        ],
-        "category": 0,
-        "cover": 96241,
-        "created_at": 1570435284,
-        "external_games": [
-            1776869,
-            1971777
-        ],
-        "first_release_date": 1492732800,
-        "game_modes": [
-            1
-        ],
-        "genres": [
-            9,
-            15,
-            32
-        ],
-        "involved_companies": [
-            131651
-        ],
-        "name": "Zhed",
-        "platforms": [
-            6,
-            14,
-            34,
-            39,
-            130
-        ],
-        "release_dates": [
-            313074,
-            339994,
-            340008,
-            413109,
-            413110,
-            441995
-        ],
-        "screenshots": [
-            339444,
-            339445,
-            339446,
-            339447,
-            339448,
-            339449,
-            339450
-        ],
-        "similar_games": [
-            19404,
-            25222,
-            31515,
-            36269,
-            55590,
-            65827,
-            106992,
-            109129,
-            111043,
-            121518
-        ],
-        "slug": "zhed",
-        "summary": "ZHED is an instant classic puzzle game. Based on a simple mechanic, it builds onto increasingly complex puzzles that challenge you to a level you would not imagine. No timers, no clocks, no stars and no tricks, just pure puzzles for you to enjoy.",
-        "tags": [
-            268435465,
-            268435471,
-            268435488
-        ],
-        "total_rating": 70.0,
-        "total_rating_count": 2,
-        "updated_at": 1721119499,
-        "url": "https://www.igdb.com/games/zhed",
-        "websites": [
-            123502,
-            123503,
-            428347
-        ],
-        "checksum": "5f7838ca-01b3-4e0f-4caa-f9de432cacd2",
-        "language_supports": [
-            110233
-        ]
-    },
-    {
         "id": 88308,
         "category": 0,
         "cover": 64849,
@@ -569,78 +478,6 @@
         "checksum": "2504a9b2-c115-0252-9f5a-850ff9924a4f"
     },
     {
-        "id": 254573,
-        "category": 0,
-        "cover": 311277,
-        "created_at": 1687668864,
-        "external_games": [
-            2716898
-        ],
-        "franchises": [
-            4253
-        ],
-        "genres": [
-            12
-        ],
-        "involved_companies": [
-            220718,
-            220719
-        ],
-        "keywords": [
-            4141
-        ],
-        "name": "Untitled Tokyo Revengers Action RPG",
-        "platforms": [
-            6,
-            34,
-            39,
-            48,
-            130,
-            167
-        ],
-        "release_dates": [
-            551875,
-            551876,
-            551877,
-            551878,
-            551879,
-            551880
-        ],
-        "similar_games": [
-            19164,
-            25636,
-            54775,
-            55199,
-            57372,
-            96217,
-            106987,
-            111835,
-            113109,
-            113636
-        ],
-        "slug": "untitled-tokyo-revengers-action-rpg",
-        "storyline": "The game will allow players to relive the events of the main story, in which they repeatedly leap through time to get revenge against the worst possible future.",
-        "summary": "A new 3D action RPG based on the popular manga and anime series Tokyo Revengers for PlayStation 5, PlayStation 4, Switch, PC (DMM Games), iOS, and Android. A specific title was not announced. It will launch as a free-to-play title with item-based microtransactions this winter in Japan.",
-        "tags": [
-            1,
-            268435468,
-            536875053
-        ],
-        "themes": [
-            1
-        ],
-        "updated_at": 1718016154,
-        "url": "https://www.igdb.com/games/untitled-tokyo-revengers-action-rpg",
-        "videos": [
-            92584
-        ],
-        "checksum": "9f140aac-07fc-e189-d732-76f49c47640e",
-        "language_supports": [
-            717196,
-            717197
-        ]
-    },
-    {
         "id": 274991,
         "category": 0,
         "cover": 341335,
@@ -902,62 +739,6 @@
             57531,
             57532
         ]
-    },
-    {
-        "id": 85349,
-        "age_ratings": [
-            39898
-        ],
-        "category": 0,
-        "cover": 320082,
-        "created_at": 1517400302,
-        "external_games": [
-            219722,
-            1983031
-        ],
-        "first_release_date": 1467244800,
-        "genres": [
-            9,
-            15
-        ],
-        "name": "Prism Pets",
-        "platforms": [
-            41
-        ],
-        "release_dates": [
-            142464
-        ],
-        "screenshots": [
-            169880,
-            169881,
-            169882,
-            169883
-        ],
-        "similar_games": [
-            17613,
-            19222,
-            41349,
-            51207,
-            77597,
-            87507,
-            90839,
-            95776,
-            109129,
-            121518
-        ],
-        "slug": "prism-pets",
-        "summary": "Prism Pets, a colorfully cute puzzle that shines. Slide, smash and crash your way into color!",
-        "tags": [
-            268435465,
-            268435471
-        ],
-        "updated_at": 1717694489,
-        "url": "https://www.igdb.com/games/prism-pets",
-        "websites": [
-            70588,
-            439101
-        ],
-        "checksum": "4500922e-37dc-b188-18a1-41533cb02c93"
     },
     {
         "id": 94975,
@@ -1433,6 +1214,62 @@
             356674
         ],
         "checksum": "7ceffa58-9b50-bee7-e7b1-8ef1f894741c"
+    },
+    {
+        "id": 85349,
+        "age_ratings": [
+            39898
+        ],
+        "category": 0,
+        "cover": 320082,
+        "created_at": 1517400302,
+        "external_games": [
+            219722,
+            1983031
+        ],
+        "first_release_date": 1467244800,
+        "genres": [
+            9,
+            15
+        ],
+        "name": "Prism Pets",
+        "platforms": [
+            41
+        ],
+        "release_dates": [
+            142464
+        ],
+        "screenshots": [
+            169880,
+            169881,
+            169882,
+            169883
+        ],
+        "similar_games": [
+            17613,
+            19222,
+            25905,
+            41349,
+            51207,
+            77597,
+            87507,
+            90839,
+            95776,
+            121518
+        ],
+        "slug": "prism-pets",
+        "summary": "Prism Pets, a colorfully cute puzzle that shines. Slide, smash and crash your way into color!",
+        "tags": [
+            268435465,
+            268435471
+        ],
+        "updated_at": 1729185744,
+        "url": "https://www.igdb.com/games/prism-pets",
+        "websites": [
+            70588,
+            439101
+        ],
+        "checksum": "36591cf7-1e50-ef59-665d-1d69e3bd284e"
     },
     {
         "id": 230918,
@@ -2433,86 +2270,6 @@
         ]
     },
     {
-        "id": 147142,
-        "age_ratings": [
-            39561,
-            54454,
-            98345
-        ],
-        "alternative_names": [
-            111934
-        ],
-        "artworks": [
-            14459
-        ],
-        "category": 3,
-        "cover": 202871,
-        "created_at": 1620751355,
-        "external_games": [
-            2598999
-        ],
-        "first_release_date": 1610928000,
-        "game_modes": [
-            1
-        ],
-        "genres": [
-            31,
-            33
-        ],
-        "involved_companies": [
-            131904
-        ],
-        "name": "Dungeon Nightmares 1+2 Collection",
-        "platforms": [
-            130
-        ],
-        "player_perspectives": [
-            1
-        ],
-        "release_dates": [
-            341155
-        ],
-        "screenshots": [
-            444220,
-            444223,
-            444226,
-            444229,
-            444232
-        ],
-        "similar_games": [
-            55199,
-            56033,
-            76253,
-            87622,
-            87728,
-            96217,
-            103292,
-            103369,
-            106987,
-            111130
-        ],
-        "slug": "dungeon-nightmares-1-plus-2-collection",
-        "summary": "The game is inspired by classic roguelike games which include 100% procedural-generated maps and permadeath. These features play an important part in making this game tense with the feeling of dread & terror as you walk the hallways of the dungeon. Every time you play, the dungeons are randomised which guarantees unlimited replay value. The game is simple. Get through each dungeon by surviving the horrors that lurk deep within and making your way to the exit. FEATURES - Dungeon Nightmares 1 Remastered - Dungeon Nightmares 2 : The Memory - Intense scary atmosphere - Combat-less gameplay - 100% procedural-generated maps - Permadeath - Rich 3D surround sound - Intelligent AI that changes based on the way you behave each night - Unlockable extras",
-        "tags": [
-            1,
-            268435487,
-            268435489
-        ],
-        "themes": [
-            1
-        ],
-        "updated_at": 1698218999,
-        "url": "https://www.igdb.com/games/dungeon-nightmares-1-plus-2-collection",
-        "checksum": "9c4e231c-9d37-a6ff-be1a-e410765afbfd",
-        "language_supports": [
-            502253,
-            502255
-        ],
-        "game_localizations": [
-            14535
-        ]
-    },
-    {
         "id": 190243,
         "artworks": [
             66919
@@ -2820,6 +2577,128 @@
         "checksum": "d8113322-52cb-9f95-43e0-618b8bd7ac75"
     },
     {
+        "id": 197609,
+        "age_ratings": [
+            82844
+        ],
+        "artworks": [
+            95628,
+            95629,
+            95630,
+            95631
+        ],
+        "category": 0,
+        "cover": 218916,
+        "created_at": 1649812557,
+        "external_games": [
+            2416116,
+            2417306,
+            2440427,
+            2517479,
+            2635219,
+            2635220,
+            2635221,
+            2682102,
+            2731726,
+            2749825
+        ],
+        "first_release_date": 1668470400,
+        "franchises": [
+            67
+        ],
+        "game_modes": [
+            1,
+            3
+        ],
+        "genres": [
+            12,
+            31
+        ],
+        "involved_companies": [
+            196292,
+            196293
+        ],
+        "keywords": [
+            78
+        ],
+        "multiplayer_modes": [
+            21705
+        ],
+        "name": "Ys VIII: Lacrimosa of Dana - Deluxe Edition",
+        "platforms": [
+            167
+        ],
+        "player_perspectives": [
+            2
+        ],
+        "release_dates": [
+            427403,
+            427404,
+            427405
+        ],
+        "screenshots": [
+            947311,
+            947312,
+            947313,
+            947314,
+            947315
+        ],
+        "similar_games": [
+            24426,
+            28010,
+            55038,
+            81249,
+            96217,
+            101608,
+            103168,
+            103303,
+            106987,
+            113360
+        ],
+        "slug": "ys-viii-lacrimosa-of-dana-deluxe-edition",
+        "storyline": "Follow Adol on his latest adventure and uncover the mysteries of the cursed island.",
+        "summary": "Deluxe Edition Includes:\n\n- Ys VIII: Lacrimosa Of Dana PS5 Game\n- Mini Art Collection\n- Ys VIII: Lacrimosa of Dan, Select Soundtrack",
+        "tags": [
+            1,
+            17,
+            268435468,
+            268435487,
+            536870990
+        ],
+        "themes": [
+            1,
+            17
+        ],
+        "updated_at": 1729406160,
+        "url": "https://www.igdb.com/games/ys-viii-lacrimosa-of-dana-deluxe-edition",
+        "version_parent": 27304,
+        "videos": [
+            80802,
+            80803
+        ],
+        "websites": [
+            352141,
+            352142,
+            352143,
+            352145,
+            352146
+        ],
+        "checksum": "29befc5e-a8e2-dc6d-2399-b55167dd9280",
+        "language_supports": [
+            469309,
+            469310,
+            469311,
+            469312,
+            469313,
+            469314,
+            469315,
+            469316
+        ],
+        "collections": [
+            1126
+        ]
+    },
+    {
         "id": 91555,
         "category": 0,
         "cover": 132963,
@@ -2847,200 +2726,201 @@
         "checksum": "e3e150de-a633-6de8-277b-1c7ba7eaec82"
     },
     {
-        "id": 1438,
+        "id": 214402,
         "age_ratings": [
-            47448
+            132178,
+            146870,
+            150927,
+            150931,
+            151159
         ],
-        "alternative_names": [
-            12339,
-            32821,
-            32822,
-            33631,
-            40758,
-            136771
-        ],
+        "aggregated_rating": 70.0,
+        "aggregated_rating_count": 1,
         "artworks": [
-            110214,
-            110215,
-            110216,
-            110217
+            84850
         ],
         "category": 0,
-        "cover": 309491,
-        "created_at": 1349603528,
+        "cover": 238669,
+        "created_at": 1661279828,
         "external_games": [
-            33028,
-            155981,
-            248281,
-            2594324
+            2532909,
+            2533992,
+            2565125,
+            2623710,
+            2669697,
+            2669744,
+            2710753,
+            2710757,
+            2710934,
+            2712905,
+            2712939,
+            2712959,
+            2713014,
+            2713055,
+            2713057,
+            2715739,
+            2727971,
+            2736386,
+            2736387,
+            2736574,
+            2737061,
+            2737090,
+            2737112,
+            2737151,
+            2749762,
+            2749786,
+            2750077,
+            2751179,
+            2751196,
+            2751271,
+            2930945
         ],
-        "first_release_date": 1017360000,
-        "franchises": [
-            769
+        "first_release_date": 1693267200,
+        "game_engines": [
+            439
         ],
         "game_modes": [
             1
         ],
         "genres": [
-            12,
-            15,
-            24
+            31,
+            32
         ],
+        "hypes": 6,
         "involved_companies": [
-            154367,
-            154369,
-            226309,
-            264446
+            218768,
+            218769
         ],
         "keywords": [
-            226,
-            415,
-            578,
-            1107,
-            1186,
-            1313,
-            1699,
-            1923,
-            2606,
-            4248,
-            4249,
-            4388,
-            4392,
-            4613,
-            4862,
-            4879,
-            5175,
-            5591,
-            6221,
-            6225,
-            6463,
-            6733,
-            7480,
-            7529,
-            7590,
-            9256,
-            9628,
-            10006,
-            11281,
-            25265,
-            29745,
-            30490,
-            31533
+            72,
+            138,
+            2426,
+            5825,
+            17268
         ],
-        "name": "Fire Emblem: The Binding Blade",
+        "name": "Under the Waves",
         "platforms": [
-            24,
-            41
+            6,
+            48,
+            49,
+            167,
+            169
         ],
         "player_perspectives": [
-            3,
-            4
+            2
         ],
-        "rating": 73.89159371462236,
-        "rating_count": 46,
+        "rating": 69.86154717146752,
+        "rating_count": 10,
         "release_dates": [
-            496241,
-            496242,
-            496243,
-            496288
+            482044,
+            482045,
+            482046,
+            482047,
+            482102
         ],
         "screenshots": [
-            356851,
-            356852,
-            356853,
-            356854,
-            356855,
-            356856,
-            356857,
-            356858,
-            671543,
-            671544,
-            671545
+            863285,
+            863286,
+            863287,
+            863288,
+            863289,
+            863290,
+            863291,
+            863292,
+            863293,
+            863294
         ],
         "similar_games": [
-            660,
-            1439,
-            1440,
-            1441,
-            1443,
-            2365,
-            14394,
-            22387,
-            26845,
-            119171
+            25311,
+            25646,
+            28070,
+            28277,
+            80916,
+            96217,
+            105269,
+            106987,
+            107318,
+            111130
         ],
-        "slug": "fire-emblem-the-binding-blade",
-        "storyline": "The game takes place on the continent of Elibe, set twenty years after its prequel, Fire Emblem: The Blazing Blade, Starring the son of protagonist Eliwood, Roy.\n\n1,000 years before the events of the game, the land of Elibe was the scene of The Scouring, a brutal war between humans and dragons over the control of the land. Late in this war, mankind forged nine powerful dragon-slaying weapons, the Divine Weapons and the Binding Blade, and gave them to eight powerful fighters who became known as the Eight Legends to use to finish the war. However, the sheer power imbued in the weapons tore apart the balance in the laws of nature when clashed with the dragon's own power, a phenomenon later called the Ending Winter.\n\nAfter the war, fearing the power of the weapons and the possibility of someone using them to cause a catastrophe, the weapons were sealed away in hiding places across the continent. Over the thousand years, the weapons remained undisturbed, and the continent is mostly at peace.\n\nHowever, this peace is soon ended when Bern suddenly invades Sacae and Ilia and swiftly takes control of the two countries. They then turn towards the small country of Lycia. Roy then leads the League of Lycia's army against the forces of the militant country of Bern shortly after his father falls ill.",
-        "summary": "Fire Emblem: The Binding Blade is a Japanese tactical role-playing game developed by Intelligent Systems and published by Nintendo. The game was released on March 29, 2002 in Japan, is the sixth game in the Fire Emblem series, and the first of three games in the series that have appeared on Nintendo's Game Boy Advance handheld. It was the last Fire Emblem game to be released exclusively in Japan until the release of Fire Emblem: New Mystery of the Emblem. The Binding Blade was followed by a prequel, Fire Emblem: The Blazing Blade, set twenty years earlier.",
+        "slug": "under-the-waves",
+        "summary": "Under the Waves is a narrative-driven adventure game about the engulfing power of grief. Set in the depths of the North Sea in a techno-futuristic 1970s, professional diver Stan is struggling to overcome a life-changing loss and embrace a new future. The isolation of the deep sea is a fitting manifestation of his state of mind, and as Stan retreads further into his self-imposed solitude, he starts to experience strange events far beneath the waves. Stuck between life and death, Stan will have to make the most significant choice of his existence.",
         "tags": [
             1,
-            17,
-            39,
-            268435468,
-            268435471,
-            268435480,
-            536871138,
-            536871327,
-            536871490,
-            536872019,
-            536872098,
-            536872225,
-            536872611,
-            536872835,
-            536873518,
-            536875160,
-            536875161,
-            536875300,
-            536875304,
-            536875525,
-            536875774,
-            536875791,
-            536876087,
-            536876503,
-            536877133,
-            536877137,
-            536877375,
-            536877645,
-            536878392,
-            536878441,
-            536878502,
-            536880168,
-            536880540,
-            536880918,
-            536882193,
-            536896177,
-            536900657,
-            536901402,
-            536902445
+            18,
+            268435487,
+            268435488,
+            536870984,
+            536871050,
+            536873338,
+            536876737,
+            536888180
         ],
         "themes": [
             1,
-            17,
-            39
+            18
         ],
-        "total_rating": 73.89159371462236,
-        "total_rating_count": 46,
-        "updated_at": 1726988998,
-        "url": "https://www.igdb.com/games/fire-emblem-the-binding-blade",
+        "total_rating": 69.93077358573376,
+        "total_rating_count": 11,
+        "updated_at": 1730048814,
+        "url": "https://www.igdb.com/games/under-the-waves",
         "videos": [
-            36543,
-            57291
+            73645,
+            73858,
+            73859,
+            91315
         ],
         "websites": [
-            61109,
-            142038,
-            142039,
-            335449
+            305840,
+            305842,
+            501250,
+            577731,
+            675030
         ],
-        "checksum": "fc4ce1ed-36b3-eaa8-320b-e3bd92905c8a",
+        "checksum": "e2795a2f-cb5a-b530-dcd6-eb9139e56b84",
         "language_supports": [
-            729101
-        ],
-        "game_localizations": [
-            3183
-        ],
-        "collections": [
-            303
+            375703,
+            375704,
+            375705,
+            375706,
+            375707,
+            375708,
+            375709,
+            375710,
+            375711,
+            375712,
+            375713,
+            375714,
+            375715,
+            375716,
+            375717,
+            375718,
+            375720,
+            375721,
+            375722,
+            375723,
+            375724,
+            375725,
+            375726,
+            375727,
+            375728,
+            375729,
+            375730,
+            375731,
+            375732,
+            375733,
+            375734,
+            375735,
+            375736,
+            375737,
+            375738,
+            375740,
+            375741,
+            375743,
+            375745,
+            375747,
+            375752,
+            375758,
+            784706
         ]
     },
     {
@@ -3644,51 +3524,6 @@
         ]
     },
     {
-        "id": 185421,
-        "category": 0,
-        "created_at": 1639167036,
-        "external_games": [
-            2155232,
-            2178112
-        ],
-        "genres": [
-            8
-        ],
-        "name": "Paw Bois",
-        "screenshots": [
-            701999,
-            702000,
-            702001
-        ],
-        "similar_games": [
-            304363,
-            307583,
-            307598,
-            307601,
-            307609,
-            308202,
-            311011,
-            311759,
-            313206,
-            313636
-        ],
-        "slug": "paw-bois",
-        "summary": "cute climbing",
-        "tags": [
-            268435464
-        ],
-        "updated_at": 1671006001,
-        "url": "https://www.igdb.com/games/paw-bois",
-        "videos": [
-            62030
-        ],
-        "websites": [
-            252519,
-            479948
-        ],
-        "checksum": "7783336a-7a87-9c2d-1375-76ab53e34a7d"
-    },
-    {
         "id": 160532,
         "category": 1,
         "created_at": 1627925847,
@@ -3742,61 +3577,49 @@
         ]
     },
     {
-        "id": 299364,
+        "id": 185421,
         "category": 0,
-        "cover": 379539,
-        "created_at": 1714140098,
+        "created_at": 1639167036,
         "external_games": [
-            2912092
-        ],
-        "first_release_date": 1697414400,
-        "game_engines": [
-            829
-        ],
-        "game_modes": [
-            1
+            2155232,
+            2178112
         ],
         "genres": [
             8
         ],
-        "name": "Redash",
-        "platforms": [
-            82
-        ],
-        "player_perspectives": [
-            4
-        ],
-        "release_dates": [
-            588768
-        ],
+        "name": "Paw Bois",
         "screenshots": [
-            1310219,
-            1310220,
-            1310221
+            701999,
+            702000,
+            702001
         ],
         "similar_games": [
-            307601,
-            307609,
             308202,
             311011,
+            311337,
             311759,
             313206,
             314648,
             317003,
             317139,
-            317420
+            317420,
+            318519
         ],
-        "slug": "redash",
-        "summary": "After Marsho lent his game to a friend awhile back, Mo won't give it back now!\nIt's up to you find the Warp Stars and take it back even if force is needed.",
+        "slug": "paw-bois",
+        "summary": "cute climbing",
         "tags": [
             268435464
         ],
-        "updated_at": 1728633562,
-        "url": "https://www.igdb.com/games/redash",
-        "websites": [
-            633987
+        "updated_at": 1671006001,
+        "url": "https://www.igdb.com/games/paw-bois",
+        "videos": [
+            62030
         ],
-        "checksum": "1b1a7bf6-e7f5-f0e8-e73e-eec930356f2c"
+        "websites": [
+            252519,
+            479948
+        ],
+        "checksum": "78eac413-8e1d-1671-4943-d905de6c1c84"
     },
     {
         "id": 283003,
@@ -3964,6 +3787,230 @@
         ]
     },
     {
+        "id": 125015,
+        "age_ratings": [
+            38993,
+            51602,
+            56961
+        ],
+        "alternative_names": [
+            83521,
+            83522
+        ],
+        "artworks": [
+            13836
+        ],
+        "category": 11,
+        "cover": 209686,
+        "created_at": 1571806994,
+        "external_games": [
+            1806199,
+            2171478,
+            2582829,
+            2597858
+        ],
+        "first_release_date": 1571270400,
+        "franchises": [
+            895
+        ],
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            8,
+            31,
+            33
+        ],
+        "involved_companies": [
+            139045,
+            144122
+        ],
+        "keywords": [
+            5,
+            126,
+            1288,
+            2415,
+            5531
+        ],
+        "name": "Arcade Archives: VS. Castlevania",
+        "parent_game": 40513,
+        "platforms": [
+            48,
+            130
+        ],
+        "player_perspectives": [
+            4
+        ],
+        "release_dates": [
+            290016,
+            290017,
+            290018,
+            290019,
+            344622,
+            344623,
+            344624
+        ],
+        "screenshots": [
+            337177,
+            337178,
+            337179,
+            337180,
+            337181,
+            337182,
+            337183
+        ],
+        "similar_games": [
+            19150,
+            24426,
+            28070,
+            29032,
+            56033,
+            96217,
+            103369,
+            106987,
+            110503,
+            121440
+        ],
+        "slug": "arcade-archives-vs-castlevania",
+        "summary": "VS. Castlevania is an action game released by Konami in 1987. The demonic Count Dracula has awakened from his 100 year slumber. Play as Simon, as he sets out for Dracula's castle of evil in order to defeat him. With the whip handed down through his family and a variety of weapons, control Simon to defeat the children of the night standing in his way.",
+        "tags": [
+            1,
+            17,
+            268435464,
+            268435487,
+            268435489,
+            536870917,
+            536871038,
+            536871498,
+            536872200,
+            536873327,
+            536876443
+        ],
+        "themes": [
+            1,
+            17
+        ],
+        "updated_at": 1729146100,
+        "url": "https://www.igdb.com/games/arcade-archives-vs-castlevania",
+        "websites": [
+            142939
+        ],
+        "checksum": "e5efcb12-eccf-d6cb-4551-ed15b17c406f",
+        "language_supports": [
+            667394
+        ],
+        "game_localizations": [
+            12414
+        ]
+    },
+    {
+        "id": 83466,
+        "age_ratings": [
+            38772,
+            54058,
+            92547
+        ],
+        "alternative_names": [
+            102936,
+            102948,
+            113827,
+            113950
+        ],
+        "artworks": [
+            13590
+        ],
+        "category": 0,
+        "cover": 279591,
+        "created_at": 1516478341,
+        "external_games": [
+            134148,
+            209566,
+            263300,
+            307742,
+            575682,
+            1185911,
+            2591258,
+            2599978
+        ],
+        "first_release_date": 1579132800,
+        "game_modes": [
+            1
+        ],
+        "genres": [
+            9,
+            15,
+            16,
+            31,
+            35
+        ],
+        "involved_companies": [
+            133617
+        ],
+        "name": "Spider Solitaire",
+        "platforms": [
+            130
+        ],
+        "rating": 70.0,
+        "rating_count": 0,
+        "release_dates": [
+            249344,
+            339877,
+            446660
+        ],
+        "screenshots": [
+            447659,
+            447660,
+            447661,
+            447662,
+            447663
+        ],
+        "similar_games": [
+            236,
+            25222,
+            27266,
+            28182,
+            32510,
+            36258,
+            40477,
+            79134,
+            106992,
+            111054
+        ],
+        "slug": "spider-solitaire",
+        "summary": "Spider Solitaire is one of the most popular solitaire games in the world! If you are a big fan of Spider Solitaire, Klondike solitaire, FreeCell Solitaire or other card games, you will love this spectacular and highly polished game! Change the game's appearance to suit your own taste. Progress through the game to unlock unique card sets and backgrounds. Customize your Solitare to make it unique and exclusive. Stunning animations and gameplay designed for endless entertainment in the palm of your hand.",
+        "tags": [
+            268435465,
+            268435471,
+            268435472,
+            268435487,
+            268435491
+        ],
+        "total_rating": 70.0,
+        "total_rating_count": 0,
+        "updated_at": 1729146249,
+        "url": "https://www.igdb.com/games/spider-solitaire",
+        "websites": [
+            343932
+        ],
+        "checksum": "aa4d6800-7641-5bb8-1d74-3f168fefcc64",
+        "language_supports": [
+            499426,
+            499427,
+            499428,
+            499429,
+            499430,
+            499431,
+            499432,
+            518361,
+            518362,
+            518363
+        ],
+        "game_localizations": [
+            10237,
+            20558
+        ]
+    },
+    {
         "id": 137244,
         "category": 0,
         "created_at": 1598522013,
@@ -4089,6 +4136,66 @@
             713222,
             713223,
             713224
+        ]
+    },
+    {
+        "id": 317637,
+        "category": 0,
+        "cover": 413134,
+        "created_at": 1727233606,
+        "external_games": [
+            2954762
+        ],
+        "genres": [
+            32
+        ],
+        "keywords": [
+            2014,
+            24124,
+            44713
+        ],
+        "name": "A Dream of Silence",
+        "platforms": [
+            82
+        ],
+        "release_dates": [
+            645498
+        ],
+        "similar_games": [
+            19404,
+            24426,
+            28070,
+            29032,
+            36198,
+            94772,
+            96217,
+            106987,
+            113360,
+            116992
+        ],
+        "slug": "a-dream-of-silence",
+        "storyline": "A monster has its teeth in your companions.\n\nIt builds nightmares out of their worst memories and drinks their pain.\n\nOne of your companions has a particularly bad worst memory.",
+        "tags": [
+            17,
+            268435488,
+            536872926,
+            536895036,
+            536915625
+        ],
+        "themes": [
+            17
+        ],
+        "updated_at": 1729146134,
+        "url": "https://www.igdb.com/games/a-dream-of-silence",
+        "websites": [
+            676358,
+            676359,
+            676360,
+            676361
+        ],
+        "checksum": "97c495f3-f62c-8064-6d6a-addcaee0398c",
+        "language_supports": [
+            1093015
         ]
     },
     {
@@ -4233,20 +4340,161 @@
         ]
     },
     {
-        "id": 90944,
-        "category": 0,
-        "created_at": 1520960772,
+        "id": 109461,
+        "age_ratings": [
+            40955,
+            60626,
+            69593,
+            91279,
+            126065,
+            126066
+        ],
+        "aggregated_rating": 57.5,
+        "aggregated_rating_count": 2,
+        "alternative_names": [
+            61811,
+            110161
+        ],
+        "artworks": [
+            15795
+        ],
+        "category": 10,
+        "cover": 93518,
+        "created_at": 1536887645,
         "external_games": [
-            133201,
-            1878802
+            1597032,
+            1597072,
+            1930217,
+            1932410,
+            2003531,
+            2083371,
+            2233931,
+            2254992,
+            2579983,
+            2588008,
+            2589809,
+            2597016
         ],
-        "name": "Terwilliger",
-        "slug": "terwilliger",
-        "updated_at": 1670953223,
-        "url": "https://www.igdb.com/games/terwilliger",
+        "first_release_date": 1541462400,
+        "franchises": [
+            4
+        ],
+        "game_modes": [
+            1,
+            2
+        ],
+        "genres": [
+            12,
+            31
+        ],
+        "hypes": 1,
+        "involved_companies": [
+            253379,
+            253380
+        ],
+        "keywords": [
+            1868
+        ],
+        "name": "World of Final Fantasy: Maxima",
+        "parent_game": 11214,
+        "platforms": [
+            6,
+            48,
+            49,
+            130
+        ],
+        "player_perspectives": [
+            2
+        ],
+        "rating": 53.49794879389278,
+        "rating_count": 9,
+        "release_dates": [
+            158438,
+            158439,
+            158440,
+            158441
+        ],
+        "screenshots": [
+            258410,
+            258411,
+            258412,
+            258413,
+            258414,
+            258913,
+            258914,
+            258915,
+            258916,
+            258917,
+            258918,
+            258919
+        ],
+        "similar_games": [
+            23651,
+            55038,
+            81249,
+            96217,
+            99118,
+            103168,
+            103303,
+            106987,
+            113360,
+            115653
+        ],
+        "slug": "world-of-final-fantasy-maxima",
+        "storyline": "Embark on a magical journey with siblings Reynn and Lann as they explore the vast land of Grymoire to rediscover their past and save the future.\n\nWith charming and stylised visuals, you can capture, customise and evolve iconic creatures by stacking them to form adorable yet strategic monster towers.\n\nNew characters from FINAL FANTASY lore (Champions) and monsters (Mirages) add even more fun and excitement to this unique adventure in WORLD OF FINAL FANTASY MAXIMA!\"",
+        "summary": "World of Final Fantasy: Maxima is the powered up version of WORLD OF FINAL FANTASY which was originally released in October 2016.\n\nCAPTURE, CUSTOMISE AND EVOLVE! Embark on a magical journey with siblings Reynn and Lann as they explore the vast land of Grymoire to rediscover their past and save the future. With charming and stylised visuals, players will capture, customise and evolve iconic creatures by stacking them to form adorable yet strategic monster towers. The memorable legends of FINAL FANTASY come to life in this imaginative, colourful world as an epic story fit for the smallest of heroes unfolds.",
+        "tags": [
+            17,
+            268435468,
+            268435487,
+            536872780
+        ],
+        "themes": [
+            17
+        ],
+        "total_rating": 55.49897439694639,
+        "total_rating_count": 11,
+        "updated_at": 1730048768,
+        "url": "https://www.igdb.com/games/world-of-final-fantasy-maxima",
+        "videos": [
+            22947
+        ],
         "websites": [
-            365114
+            92314,
+            92315,
+            92316,
+            92317,
+            92318,
+            454638
         ],
-        "checksum": "75080686-6f4b-0947-fd57-af7c86726639"
+        "checksum": "7cf6e164-a53e-545c-b7ec-16e8c1f1a77e",
+        "language_supports": [
+            159901,
+            159902,
+            159903,
+            159904,
+            159905,
+            159906,
+            159907,
+            159908,
+            159909,
+            159910,
+            159911,
+            159913,
+            159915,
+            159917,
+            159919,
+            159922,
+            159924,
+            159925,
+            159928,
+            159930
+        ],
+        "game_localizations": [
+            11270
+        ],
+        "collections": [
+            4248
+        ]
     }
 ]

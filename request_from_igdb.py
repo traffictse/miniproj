@@ -7,14 +7,14 @@ import json
 # print ("response: %s" % str(response.json()))
 
 # Define the URL and headers
-url = 'https://api.igdb.com/v4/games'
+url = "https://api.igdb.com/v4/games"
 headers = {
-    'Client-ID': 'tagbrp3661efpnk00us7rz1dwp1ftj',  # Replace with your actual Client ID
-    'Authorization': 'Bearer q8c7r6815ouxowmexkuvbnxp2ww0ff'  # Replace with your actual access token
+    "Client-ID": "tagbrp3661efpnk00us7rz1dwp1ftj",  # Replace with your actual Client ID
+    "Authorization": "Bearer q8c7r6815ouxowmexkuvbnxp2ww0ff",  # Replace with your actual access token
 }
 
 # Define the body of the request (IGDB uses a special query format)
-body = 'fields *; limit 100;'  # Example to retrieve all fields for 10 games
+body = "fields *; limit 100;"  # Example to retrieve all fields for 10 games
 
 # Make the POST request
 response = requests.post(url, headers=headers, data=body)
@@ -26,10 +26,10 @@ if response.status_code == 200:
     # print(json.dumps(response_data, indent=4))
 
     # Write the JSON data to a file
-    with open('igdb_response.json', 'w') as f:
+    with open("igdb_response.json", "w") as f:
         json.dump(response_data, f, indent=4)
 
     print("Data successfully written to 'igdb_response.json'")
 else:
-    print('Failed to retrieve data. Status code:', response.status_code)
-    print('Response:', response.text)
+    print("Failed to retrieve data. Status code:", response.status_code)
+    print("Response:", response.text)
